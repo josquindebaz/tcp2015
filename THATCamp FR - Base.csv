@@ -1,4 +1,4 @@
-Nom_atelier,type_atelier,annee,lieu_thatcamp,geoloc,Auteurs,Genre,Statuts,poste_temporaire,Fonction,Forme_interrogative,Institutions,Ville,keywords,liens_atelier,observations
+Nom_atelier,type_atelier,annee,lieu_thatcamp,geoloc,Auteurs,Sexe,Statuts,poste_temporaire,Fonction,Forme_interrogative,Institutions,Ville,keywords,liens_atelier,observations
 Les outils collaboratifs / Collaboration tools,,2010,Paris,"48.857730, 2.352069",Muriel Foulonneau;Frédéric Clavert,F;M,IR;chercheur,oui, Reference modelling Knowledge systems researcher,NON,Centre de Recherche Public Henri Tudor; Centre virtuel de la connaissance sur l’Europe,"Luxembourg
 ",,,
 "Les archives de chercheurs : classification, archivage et dissémination… Quelles méthodes pour promouvoir les formats ouverts et libres ?",,2010,Paris,"48.857730, 2.352069",Richard Walter,M,IR,non,,OUI,"CNRS
@@ -19,23 +19,18 @@ L’encodage TEI peut-il être délégué à des ingénieurs ou techniciens ?,,2
 ",,OUI,,,,,
 Analyse de données en ligne : quels intérêts et avenir pour les SHS ?,,2010,Paris,"48.857730, 2.352069",Stéphane Lamassé;Philippe Rygiel,M;M,MCF;MCF,non;non,,OUI,,,,,
 "Les enjeux du numérique pour les jeunes chercheurs en SHS: visibilité, citabilité, pérennité",,2010,Paris,"48.857730, 2.352069",Karim Hammou;Émilie Bremond,M;M,,,,NON,,,,,
-What is the future for today Graduate Students in DH,,2011,Lausanne,"46.521739, 6.580182","Mills Kelly
-",,,,,,"CHNM, George Mason Uni.",,,,
-"Digital texts
-","
-THATCamp",2011,Lausanne,"46.521739, 6.580182","
-Jürgen Rolshoven;Florentin Lutz",,,,,,,,,,
+What is the future for today Graduate Students in DH,,2011,Lausanne,"46.521739, 6.580182",Mills Kelly,,,,,,"CHNM, George Mason Uni.",,,,
+Digital texts,THATCamp,2011,Lausanne,"46.521739, 6.580182",Jürgen Rolshoven;Florentin Lutz,,,,,,,,,,
 European Association of DH,THATCamp,2011,Lausanne,"46.521739, 6.580182",Frédéric Clavert,M,chercheur,oui,,,Centre virtuel de la connaissance sur l’Europe,Luxembourg,,,
 Websites as primary sources ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Serge Noiret,M,bibliothécaire,,,,,,,,Statut : ? statut européen à traduire http://www.eui.eu/Documents/AboutEUI/Organization/EmployeesUnion/AssembleeNew/WGPromotionsAnnex.pdf
 Advanced wordpress,THATCamp,2011,Lausanne,"46.521739, 6.580182",Pierre Mounier,M,PRCE,,"Chargé des études, usages et formations",,EHESS,,,,
 New Forms of Publication,THATCamp,2011,Lausanne,"46.521739, 6.580182",Terra,,,,,,,,,,
 Mobile Computing ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Stefan Keller,,,,,,,,,,
-Historical Source Criticism ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Pascal,,,,,,,,,,
+Historical Source Criticism ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Pascal Hurni,,,,,,,,,,
 What do we need from archives/institutional repositories ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Frédéric Clavert;Jean,M;,chercheur;,,,,Centre virtuel de la connaissance sur l’Europe,Luxembourg,,,
 How’s changing the writing of history ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Julia Schreiner,,,,,,,,,,
 Collaborative Research Practice / Platforms ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Francesco Beretta,M,CR,,,,,,,,
-Metadata ,THATCamp,2011,Lausanne,"46.521739, 6.580182","Seth van Hooland
-",,Associate Professor,,,,,,,,http://homepages.ulb.ac.be/~svhoolan/
+Metadata ,THATCamp,2011,Lausanne,"46.521739, 6.580182",Seth van Hooland,,Associate Professor,,,,,,,,http://homepages.ulb.ac.be/~svhoolan/
 DH Project Management,THATCamp,2011,Lausanne,"46.521739, 6.580182",Radu Suciu,,,,,,,,,,
 Information Literacy,THATCamp,2011,Lausanne,"46.521739, 6.580182",Jan Baumann,,,,,,,,,,
 Zotero/Litlink,THATCamp,2011,Lausanne,"46.521739, 6.580182",Jan Baumann,,,,,,,,,,
