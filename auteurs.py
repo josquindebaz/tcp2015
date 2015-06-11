@@ -94,7 +94,7 @@ txt += "\n*Vector nb of workshop\n*Vertices %d\n" % len(auteurs)
 for aut in auteurs:
 	txt += "%d\n" % nb_atelier[aut]
 
-F = open("test.paj",'w')
+F = open("auteurs.paj",'w')
 F.write(txt)
 F.close()
 
