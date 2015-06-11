@@ -11,6 +11,7 @@ class FromCSV(object):
 				self.rows.append(row)
 
 			self.colums = self.rows[0]
+			self.rows.pop(0)
 
 	def N_Col(self,val):
 		"""index of a column value"""
@@ -31,6 +32,8 @@ recup = FromCSV()
 auteurs  = []
 liens = []
 institutions = {}
+nb_atelier = {}
+
 for row in recup.rows:
 	if len(row) > 5:	
 		inst = re.split(';',row[11]) #recup institutions 
@@ -39,11 +42,16 @@ for row in recup.rows:
 		for author in authors:
 			if author not in auteurs:
 				auteurs.append(author) #add a new author
-				if len(inst) == 1 and len(authors) == 1 and inst[0] != "":
-					institutions[author] = inst[0] 
-				elif len(inst) == len(authors) and len(inst) > 1 :
-					for cpt in range(len(authors)):
-						institutions[ authors[cpt] ] = inst[cpt]
+			"""find institution"""
+			if len(inst) == 1 and len(authors) == 1 and inst[0] != "":
+				institutions[author] = inst[0] 
+			elif len(inst) == len(authors) and len(inst) > 1 :
+				 institutions[ author ] = inst[authors.index(author)] 
+			"""compte nb ateliers par auteurs"""
+			if author in nb_atelier:
+				nb_atelier[ author] += 1
+			else :
+				nb_atelier[ author] = 1
 					
 		if len(authors) > 1: #links
 			authors = map(lambda x : auteurs.index(x),authors)
@@ -66,9 +74,28 @@ for l in liens:
 			for i in range(len(l)):
 				txt += "%d %d 1\n" %(f+1,l[i]+1)
 
-"""TODO add institutions as a partition"""
 
 txt = txt.decode('utf-8').encode('latin-1')
 F.write(txt)
 F.close()
-#
+
+""".paj generation for pajek"""
+txt = "*Network auteurs.net\n" + txt
+txt += "\n*Partition institution\n*Vertices %d\n" % len(auteurs)
+
+institutions_liste =  institutions.values()
+for aut in auteurs:
+	if aut in institutions:
+		txt += "%d\n" %  (institutions_liste.index(institutions[aut]))
+	else :
+		txt += "0\n" 
+
+txt += "\n*Vector nb of workshop\n*Vertices %d\n" % len(auteurs)
+for aut in auteurs:
+	txt += "%d\n" % nb_atelier[aut]
+
+F = open("test.paj",'w')
+F.write(txt)
+F.close()
+
+
