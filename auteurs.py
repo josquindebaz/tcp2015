@@ -45,7 +45,6 @@ for row in recup.rows:
 		genre = map(nettoie,genre)
 
 		status = map(nettoie,re.split(";", row[7])) #recup status
-		
 
 		authors = re.split(';',row[5])	#recup authors
 		authors = map(nettoie, authors)
@@ -130,7 +129,7 @@ Status_liste =  Status.values()
 for aut in auteurs:
 	if aut in Status:
 		txt += "%d\n" %  (Status_liste.index(Status[aut])+1)
-		print aut, Status[aut]
+		#print aut, Status[aut]
 	else :
 		txt += "0\n" 
 
