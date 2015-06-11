@@ -33,10 +33,20 @@ auteurs  = []
 liens = []
 institutions = {}
 nb_atelier = {}
+genders = {}
+Status = {}
 
 for row in recup.rows:
 	if len(row) > 5:	
 		inst = re.split(';',row[11]) #recup institutions 
+		inst = map(nettoie,inst)
+
+		genre = re.split(';',row[6]) #recup genre
+		genre = map(nettoie,genre)
+
+		status = map(nettoie,re.split(";", row[7])) #recup status
+		
+
 		authors = re.split(';',row[5])	#recup authors
 		authors = map(nettoie, authors)
 		for author in authors:
@@ -47,6 +57,19 @@ for row in recup.rows:
 				institutions[author] = inst[0] 
 			elif len(inst) == len(authors) and len(inst) > 1 :
 				 institutions[ author ] = inst[authors.index(author)] 
+			"""find gender"""
+			if len(genre) == 1 and len(authors) == 1 and inst[0] != "":
+				genders[author] = genre[0] 
+			elif len(genre) == len(authors) and len(genre) > 1 :
+				 genders[ author ] = genre[authors.index(author)] 
+
+			"""find status"""
+			if len(status) == 1 and len(authors) == 1 and inst[0] != "":
+				Status[author] = status[0] 
+			elif len(status) == len(authors) and len(status) > 1 :
+				 Status[ author ] = status[authors.index(author)] 
+
+
 			"""compte nb ateliers par auteurs"""
 			if author in nb_atelier:
 				nb_atelier[ author] += 1
@@ -81,14 +104,36 @@ F.close()
 
 """.paj generation for pajek"""
 txt = "*Network auteurs.net\n" + txt
+
+
 txt += "\n*Partition institution\n*Vertices %d\n" % len(auteurs)
 
 institutions_liste =  institutions.values()
 for aut in auteurs:
 	if aut in institutions:
-		txt += "%d\n" %  (institutions_liste.index(institutions[aut]))
+		txt += "%d\n" %  (institutions_liste.index(institutions[aut])+1)
 	else :
 		txt += "0\n" 
+
+txt += "\n*Partition genres\n*Vertices %d\n" % len(auteurs)
+
+gender_liste =  genders.values()
+for aut in auteurs:
+	if aut in genders:
+		txt += "%d\n" %  (gender_liste.index(genders[aut])+1)
+	else :
+		txt += "0\n" 
+
+
+txt += "\n*Partition status\n*Vertices %d\n" % len(auteurs)
+Status_liste =  Status.values()
+for aut in auteurs:
+	if aut in Status:
+		txt += "%d\n" %  (Status_liste.index(Status[aut])+1)
+		print aut, Status[aut]
+	else :
+		txt += "0\n" 
+
 
 txt += "\n*Vector nb of workshop\n*Vertices %d\n" % len(auteurs)
 for aut in auteurs:
