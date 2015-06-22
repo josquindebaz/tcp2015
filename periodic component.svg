@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 1. auteurs.net (109) -->
+<!-- Creator: Pajek: http://pajek.imfm.si/doku.php?id=history -->
+<!-- CreationDate: 06-22-2015, 18:34:04 -->
+<svg xml:space="preserve" viewBox="0 0 1404 1045" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>1. auteurs.net (109)</title>
+<defs>
+ <radialGradient id="Yellow" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,0)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,0)"/>
+ </radialGradient>
+ <radialGradient id="LimeGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(127,255,0)"/>
+  <stop offset="1" style="stop-color:rgb(64,128,0)"/>
+ </radialGradient>
+ <radialGradient id="Red" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,0,0)"/>
+  <stop offset="1" style="stop-color:rgb(128,0,0)"/>
+ </radialGradient>
+ <radialGradient id="Blue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,0,255)"/>
+  <stop offset="1" style="stop-color:rgb(0,0,128)"/>
+ </radialGradient>
+ <radialGradient id="Pink" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,216,242)"/>
+  <stop offset="1" style="stop-color:rgb(128,108,121)"/>
+ </radialGradient>
+ <radialGradient id="White" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,128)"/>
+ </radialGradient>
+ <radialGradient id="Orange" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,99,33)"/>
+  <stop offset="1" style="stop-color:rgb(128,50,16)"/>
+ </radialGradient>
+ <radialGradient id="Purple" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(140,35,255)"/>
+  <stop offset="1" style="stop-color:rgb(70,18,128)"/>
+ </radialGradient>
+ <radialGradient id="CadetBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(96,109,196)"/>
+  <stop offset="1" style="stop-color:rgb(48,54,98)"/>
+ </radialGradient>
+ <radialGradient id="TealBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(30,249,163)"/>
+  <stop offset="1" style="stop-color:rgb(15,124,82)"/>
+ </radialGradient>
+ <radialGradient id="OliveGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,153,0)"/>
+  <stop offset="1" style="stop-color:rgb(0,76,0)"/>
+ </radialGradient>
+ <radialGradient id="Gray" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(127,127,127)"/>
+  <stop offset="1" style="stop-color:rgb(64,64,64)"/>
+ </radialGradient>
+ <radialGradient id="Black" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(160,160,160)"/>
+  <stop offset="1" style="stop-color:rgb(0,0,0)"/>
+ </radialGradient>
+ <radialGradient id="Maroon" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(173,0,0)"/>
+  <stop offset="1" style="stop-color:rgb(86,0,0)"/>
+ </radialGradient>
+ <radialGradient id="LightGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(204,255,178)"/>
+  <stop offset="1" style="stop-color:rgb(102,128,89)"/>
+ </radialGradient>
+ <radialGradient id="LightYellow" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,153)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,76)"/>
+ </radialGradient>
+ <radialGradient id="Magenta" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,0,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,0,128)"/>
+ </radialGradient>
+ <radialGradient id="MidnightBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,112,145)"/>
+  <stop offset="1" style="stop-color:rgb(0,56,72)"/>
+ </radialGradient>
+ <radialGradient id="Dandelion" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,181,40)"/>
+  <stop offset="1" style="stop-color:rgb(128,90,20)"/>
+ </radialGradient>
+ <radialGradient id="WildStrawberry" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,10,155)"/>
+  <stop offset="1" style="stop-color:rgb(128,5,78)"/>
+ </radialGradient>
+ <radialGradient id="ForestGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,224,0)"/>
+  <stop offset="1" style="stop-color:rgb(0,112,0)"/>
+ </radialGradient>
+ <radialGradient id="Salmon" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,119,158)"/>
+  <stop offset="1" style="stop-color:rgb(128,60,79)"/>
+ </radialGradient>
+ <radialGradient id="LSkyBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,242,255)"/>
+  <stop offset="1" style="stop-color:rgb(108,121,128)"/>
+ </radialGradient>
+ <radialGradient id="GreenYellow" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,255,79)"/>
+  <stop offset="1" style="stop-color:rgb(108,128,40)"/>
+ </radialGradient>
+ <radialGradient id="Lavender" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,132,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,66,128)"/>
+ </radialGradient>
+ <radialGradient id="LFadedGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(229,255,204)"/>
+  <stop offset="1" style="stop-color:rgb(114,128,102)"/>
+ </radialGradient>
+ <radialGradient id="LightPurple" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(204,204,255)"/>
+  <stop offset="1" style="stop-color:rgb(102,102,128)"/>
+ </radialGradient>
+ <radialGradient id="CornflowerBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(89,221,255)"/>
+  <stop offset="1" style="stop-color:rgb(44,110,128)"/>
+ </radialGradient>
+ <radialGradient id="LightOrange" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,217,188)"/>
+  <stop offset="1" style="stop-color:rgb(128,108,94)"/>
+ </radialGradient>
+ <radialGradient id="Tan" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(219,147,112)"/>
+  <stop offset="1" style="stop-color:rgb(110,74,56)"/>
+ </radialGradient>
+ <radialGradient id="LightCyan" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(204,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(102,128,128)"/>
+ </radialGradient>
+ <radialGradient id="Gray15" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,216,216)"/>
+  <stop offset="1" style="stop-color:rgb(108,108,108)"/>
+ </radialGradient>
+ <radialGradient id="Gray60" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(102,102,102)"/>
+  <stop offset="1" style="stop-color:rgb(51,51,51)"/>
+ </radialGradient>
+ <radialGradient id="Gray35" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(165,165,165)"/>
+  <stop offset="1" style="stop-color:rgb(82,82,82)"/>
+ </radialGradient>
+ <radialGradient id="Gray75" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(160,160,160)"/>
+  <stop offset="1" style="stop-color:rgb(63,63,63)"/>
+ </radialGradient>
+ <radialGradient id="Gray10" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(229,229,229)"/>
+  <stop offset="1" style="stop-color:rgb(114,114,114)"/>
+ </radialGradient>
+ <radialGradient id="Gray85" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(160,160,160)"/>
+  <stop offset="1" style="stop-color:rgb(38,38,38)"/>
+ </radialGradient>
+ <radialGradient id="Gray25" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(191,191,191)"/>
+  <stop offset="1" style="stop-color:rgb(96,96,96)"/>
+ </radialGradient>
+ <radialGradient id="Gray65" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(89,89,89)"/>
+  <stop offset="1" style="stop-color:rgb(44,44,44)"/>
+ </radialGradient>
+ <radialGradient id="Cyan" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(0,128,128)"/>
+ </radialGradient>
+</defs>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 1027)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:black; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:black; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:gray; stroke:black; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:gray; stroke:black; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:black; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1386 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 1027)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Arial;font-size:55px;fill:red;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1386 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:     1    2 -->
+<line x1="944.77" y1="323.98" x2="986.24" y2="358.92" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     8    9 -->
+<line x1="180.91" y1="369.87" x2="195.19" y2="346.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11   12 -->
+<line x1="658.50" y1="679.73" x2="684.80" y2="632.08" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    13   14 -->
+<line x1="269.35" y1="261.93" x2="291.84" y2="242.87" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    16   17 -->
+<line x1="341.05" y1="207.78" x2="367.61" y2="191.89" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    18   19 -->
+<line x1="395.36" y1="177.15" x2="424.20" y2="163.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    21   22 -->
+<line x1="484.79" y1="140.41" x2="516.32" y2="130.79" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   28 -->
+<line x1="986.24" y1="358.92" x2="995.34" y2="292.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    36   37 -->
+<line x1="980.31" y1="145.73" x2="1010.62" y2="157.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    24   39 -->
+<line x1="919.48" y1="516.68" x2="990.29" y2="496.56" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    39   40 -->
+<line x1="990.29" y1="496.56" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    24   40 -->
+<line x1="919.48" y1="516.68" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   44 -->
+<line x1="795.06" y1="641.61" x2="760.67" y2="619.38" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    45   46 -->
+<line x1="1211.15" y1="292.25" x2="1229.73" y2="313.52" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   40 -->
+<line x1="986.24" y1="358.92" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   48 -->
+<line x1="986.24" y1="358.92" x2="937.69" y2="411.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    40   48 -->
+<line x1="946.79" y1="467.97" x2="937.69" y2="411.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    47   49 -->
+<line x1="1246.63" y1="335.56" x2="1275.18" y2="381.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50   51 -->
+<line x1="611.97" y1="663.84" x2="648.39" y2="597.14" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50   52 -->
+<line x1="611.97" y1="663.84" x2="584.66" y2="617.26" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    51   52 -->
+<line x1="648.39" y1="597.14" x2="584.66" y2="617.26" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    40   53 -->
+<line x1="946.79" y1="467.97" x2="855.75" y2="422.45" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    55   56 -->
+<line x1="771.80" y1="821.60" x2="846.65" y2="806.78" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    55   57 -->
+<line x1="771.80" y1="821.60" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    55   58 -->
+<line x1="771.80" y1="821.60" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    56   57 -->
+<line x1="846.65" y1="806.78" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    56   58 -->
+<line x1="846.65" y1="806.78" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    57   58 -->
+<line x1="828.44" y1="748.55" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   59 -->
+<line x1="986.24" y1="358.92" x2="917.62" y2="376.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    40   62 -->
+<line x1="946.79" y1="467.97" x2="847.66" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    63   64 -->
+<line x1="1261.80" y1="727.14" x2="1246.63" y2="749.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    67   68 -->
+<line x1="1190.96" y1="813.60" x2="1169.21" y2="833.14" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    24   69 -->
+<line x1="919.48" y1="516.68" x2="950.84" y2="556.91" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   70 -->
+<line x1="795.06" y1="641.61" x2="852.72" y2="659.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    55   71 -->
+<line x1="771.80" y1="821.60" x2="746.51" y2="858.66" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    72   73 -->
+<line x1="1068.28" y1="901.04" x2="1039.97" y2="915.18" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    74   75 -->
+<line x1="1010.62" y1="928.07" x2="980.31" y2="939.69" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    76   77 -->
+<line x1="949.16" y1="949.98" x2="917.26" y2="958.93" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    79   80 -->
+<line x1="851.66" y1="972.64" x2="818.17" y2="977.37" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    52   81 -->
+<line x1="584.66" y1="617.26" x2="505.76" y2="626.79" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    81   82 -->
+<line x1="505.76" y1="626.79" x2="574.55" y2="571.73" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    52   82 -->
+<line x1="584.66" y1="617.26" x2="574.55" y2="571.73" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11   84 -->
+<line x1="658.50" y1="679.73" x2="698.97" y2="714.67" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    85   86 -->
+<line x1="623.10" y1="282.69" x2="650.41" y2="334.57" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    85   87 -->
+<line x1="623.10" y1="282.69" x2="711.44" y2="309.88" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    85   88 -->
+<line x1="623.10" y1="282.69" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    86   87 -->
+<line x1="650.41" y1="334.57" x2="711.44" y2="309.88" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    86   88 -->
+<line x1="650.41" y1="334.57" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    87   88 -->
+<line x1="711.44" y1="309.88" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   89 -->
+<path d="M 795.06 641.61 C 799.15 637.09 816.03 604.16 817.31 598.20" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<!-- Edge:    71   83 -->
+<line x1="746.51" y1="858.66" x2="707.06" y2="892.54" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   89 -->
+<path d="M 795.06 641.61 C 796.34 635.65 813.22 602.72 817.31 598.20" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<!-- Edge:    11   43 -->
+<line x1="658.50" y1="679.73" x2="795.06" y2="641.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    93   94 -->
+<line x1="661.54" y1="470.09" x2="590.73" y2="445.74" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    96   97 -->
+<line x1="1035.80" y1="392.80" x2="1051.99" y2="317.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   96 -->
+<line x1="986.24" y1="358.92" x2="1035.80" y2="392.80" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   97 -->
+<line x1="986.24" y1="358.92" x2="1051.99" y2="317.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   98 -->
+<line x1="795.06" y1="641.61" x2="791.01" y2="700.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   57 -->
+<line x1="795.06" y1="641.61" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   99 -->
+<line x1="795.06" y1="641.61" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    57   98 -->
+<line x1="828.44" y1="748.55" x2="791.01" y2="700.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    98   99 -->
+<line x1="791.01" y1="700.90" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    57   99 -->
+<line x1="828.44" y1="748.55" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   100  101 -->
+<line x1="546.22" y1="407.62" x2="521.95" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    94  100 -->
+<line x1="590.73" y1="445.74" x2="546.22" y2="407.62" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    94  101 -->
+<line x1="590.73" y1="445.74" x2="521.95" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50  102 -->
+<line x1="611.97" y1="663.84" x2="647.38" y2="753.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50  103 -->
+<line x1="611.97" y1="663.84" x2="522.96" y2="730.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50  104 -->
+<line x1="611.97" y1="663.84" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   102  103 -->
+<line x1="647.38" y1="753.84" x2="522.96" y2="730.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   102  104 -->
+<path d="M 647.38 753.84 C 639.25 751.36 595.52 724.05 589.72 717.84" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<!-- Edge:   103  104 -->
+<line x1="522.96" y1="730.55" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   107  108 -->
+<line x1="142.23" y1="618.45" x2="137.34" y2="593.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    87  109 -->
+<line x1="711.44" y1="309.88" x2="765.21" y2="334.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11  102 -->
+<line x1="658.50" y1="679.73" x2="647.38" y2="753.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11  104 -->
+<line x1="658.50" y1="679.73" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   102  104 -->
+<path d="M 647.38 753.84 C 641.58 747.63 597.85 720.32 589.72 717.84" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+
+<!-- Vertex:     1 -->
+<ellipse cx="944.77" cy="323.98" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Muriel Foulonneau</title>
+</ellipse>
+<!-- Vertex:     2 -->
+<ellipse cx="986.24" cy="358.92" rx="34.64" ry="34.64" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Frédéric Clavert</title>
+</ellipse>
+<!-- Vertex:     3 -->
+<ellipse cx="137.34" cy="492.07" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Richard Walter</title>
+</ellipse>
+<!-- Vertex:     4 -->
+<ellipse cx="142.23" cy="466.96" rx="10.00" ry="10.00" style="fill:url(#Red);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marin Dacos</title>
+</ellipse>
+<!-- Vertex:     5 -->
+<ellipse cx="149.06" cy="442.11" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Besnard</title>
+</ellipse>
+<!-- Vertex:     6 -->
+<ellipse cx="157.80" cy="417.59" rx="10.00" ry="10.00" style="fill:url(#Pink);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Julien Velcin</title>
+</ellipse>
+<!-- Vertex:     7 -->
+<ellipse cx="168.43" cy="393.48" rx="14.14" ry="14.14" style="fill:url(#White);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Pouyllau</title>
+</ellipse>
+<!-- Vertex:     8 -->
+<ellipse cx="180.91" cy="369.87" rx="10.00" ry="10.00" style="fill:url(#Orange);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jean-Luc Pinol</title>
+</ellipse>
+<!-- Vertex:     9 -->
+<ellipse cx="195.19" cy="346.84" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Claire-Charlotte Butez</title>
+</ellipse>
+<!-- Vertex:    10 -->
+<ellipse cx="211.23" cy="324.45" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Damien Roussat</title>
+</ellipse>
+<!-- Vertex:    11 -->
+<ellipse cx="658.50" cy="679.73" rx="22.36" ry="22.36" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Francesco Beretta</title>
+</ellipse>
+<!-- Vertex:    12 -->
+<ellipse cx="684.80" cy="632.08" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Vernus</title>
+</ellipse>
+<!-- Vertex:    13 -->
+<ellipse cx="269.35" cy="261.93" rx="10.00" ry="10.00" style="fill:url(#OliveGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sarah Faraud</title>
+</ellipse>
+<!-- Vertex:    14 -->
+<ellipse cx="291.84" cy="242.87" rx="10.00" ry="10.00" style="fill:url(#Gray);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Gautier Poupeau</title>
+</ellipse>
+<!-- Vertex:    15 -->
+<ellipse cx="315.76" cy="224.80" rx="10.00" ry="10.00" style="fill:url(#Black);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Emmanuelle Morlock-Gerstenkorn</title>
+</ellipse>
+<!-- Vertex:    16 -->
+<ellipse cx="341.05" cy="207.78" rx="10.00" ry="10.00" style="fill:url(#Maroon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Lamassé</title>
+</ellipse>
+<!-- Vertex:    17 -->
+<ellipse cx="367.61" cy="191.89" rx="10.00" ry="10.00" style="fill:url(#LightGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Philippe Rygiel</title>
+</ellipse>
+<!-- Vertex:    18 -->
+<ellipse cx="395.36" cy="177.15" rx="10.00" ry="10.00" style="fill:url(#LightYellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Karim Hammou</title>
+</ellipse>
+<!-- Vertex:    19 -->
+<ellipse cx="424.20" cy="163.63" rx="10.00" ry="10.00" style="fill:url(#Magenta);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Émilie Bremond</title>
+</ellipse>
+<!-- Vertex:    20 -->
+<ellipse cx="454.04" cy="151.37" rx="10.00" ry="10.00" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mills Kelly</title>
+</ellipse>
+<!-- Vertex:    21 -->
+<ellipse cx="484.79" cy="140.41" rx="10.00" ry="10.00" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jürgen Rolshoven</title>
+</ellipse>
+<!-- Vertex:    22 -->
+<ellipse cx="516.32" cy="130.79" rx="10.00" ry="10.00" style="fill:url(#WildStrawberry);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Florentin Lutz</title>
+</ellipse>
+<!-- Vertex:    23 -->
+<ellipse cx="548.55" cy="122.53" rx="14.14" ry="14.14" style="fill:url(#ForestGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Serge Noiret</title>
+</ellipse>
+<!-- Vertex:    24 -->
+<ellipse cx="919.48" cy="516.68" rx="22.36" ry="22.36" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Mounier</title>
+</ellipse>
+<!-- Vertex:    25 -->
+<ellipse cx="614.66" cy="110.23" rx="10.00" ry="10.00" style="fill:url(#Salmon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Terra</title>
+</ellipse>
+<!-- Vertex:    26 -->
+<ellipse cx="648.32" cy="106.22" rx="10.00" ry="10.00" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stefan Keller</title>
+</ellipse>
+<!-- Vertex:    27 -->
+<ellipse cx="682.23" cy="103.67" rx="10.00" ry="10.00" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pascal Hurni</title>
+</ellipse>
+<!-- Vertex:    28 -->
+<ellipse cx="995.34" cy="292.22" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jean</title>
+</ellipse>
+<!-- Vertex:    29 -->
+<ellipse cx="750.37" cy="102.94" rx="10.00" ry="10.00" style="fill:url(#Lavender);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Julia Schreiner</title>
+</ellipse>
+<!-- Vertex:    30 -->
+<ellipse cx="784.37" cy="104.76" rx="10.00" ry="10.00" style="fill:url(#LFadedGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Seth van Hooland</title>
+</ellipse>
+<!-- Vertex:    31 -->
+<ellipse cx="818.17" cy="108.05" rx="10.00" ry="10.00" style="fill:url(#LightPurple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Radu Suciu</title>
+</ellipse>
+<!-- Vertex:    32 -->
+<ellipse cx="851.66" cy="112.77" rx="14.14" ry="14.14" style="fill:url(#CornflowerBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jan Baumann</title>
+</ellipse>
+<!-- Vertex:    33 -->
+<ellipse cx="884.72" cy="118.92" rx="10.00" ry="10.00" style="fill:url(#LightOrange);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Emre</title>
+</ellipse>
+<!-- Vertex:    34 -->
+<ellipse cx="917.26" cy="126.48" rx="10.00" ry="10.00" style="fill:url(#Tan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stefan A. Keller</title>
+</ellipse>
+<!-- Vertex:    35 -->
+<ellipse cx="949.16" cy="135.43" rx="10.00" ry="10.00" style="fill:url(#LightCyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Peter Haber</title>
+</ellipse>
+<!-- Vertex:    36 -->
+<ellipse cx="980.31" cy="145.73" rx="10.00" ry="10.00" style="fill:url(#Gray15);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marco Majoleth</title>
+</ellipse>
+<!-- Vertex:    37 -->
+<ellipse cx="1010.62" cy="157.34" rx="10.00" ry="10.00" style="fill:url(#Gray60);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Enrico Natale</title>
+</ellipse>
+<!-- Vertex:    38 -->
+<ellipse cx="1039.97" cy="170.24" rx="10.00" ry="10.00" style="fill:url(#Gray35);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Garcia</title>
+</ellipse>
+<!-- Vertex:    39 -->
+<ellipse cx="990.29" cy="496.56" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mareike König</title>
+</ellipse>
+<!-- Vertex:    40 -->
+<ellipse cx="946.79" cy="467.97" rx="28.28" ry="28.28" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Aurélien Berra</title>
+</ellipse>
+<!-- Vertex:    41 -->
+<ellipse cx="1121.38" cy="216.16" rx="10.00" ry="10.00" style="fill:url(#Gray75);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>René Schneider</title>
+</ellipse>
+<!-- Vertex:    42 -->
+<ellipse cx="1146.00" cy="233.70" rx="10.00" ry="10.00" style="fill:url(#Gray10);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Patrick Kammerer</title>
+</ellipse>
+<!-- Vertex:    43 -->
+<ellipse cx="795.06" cy="641.61" rx="28.28" ry="28.28" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Paul Girard</title>
+</ellipse>
+<!-- Vertex:    44 -->
+<ellipse cx="760.67" cy="619.38" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Tommaso Venturini</title>
+</ellipse>
+<!-- Vertex:    45 -->
+<ellipse cx="1211.15" cy="292.25" rx="10.00" ry="10.00" style="fill:url(#Gray85);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Serge Heiden</title>
+</ellipse>
+<!-- Vertex:    46 -->
+<ellipse cx="1229.73" cy="313.52" rx="10.00" ry="10.00" style="fill:url(#Gray25);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexis Lavrentiev</title>
+</ellipse>
+<!-- Vertex:    47 -->
+<ellipse cx="1246.63" cy="335.56" rx="14.14" ry="14.14" style="fill:url(#Gray65);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Lars Wieneke</title>
+</ellipse>
+<!-- Vertex:    48 -->
+<ellipse cx="937.69" cy="411.86" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Franziska Heimburger</title>
+</ellipse>
+<!-- Vertex:    49 -->
+<ellipse cx="1275.18" cy="381.61" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Isabelle Jouve</title>
+</ellipse>
+<!-- Vertex:    50 -->
+<ellipse cx="611.97" cy="663.84" rx="17.32" ry="17.32" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas Thély</title>
+</ellipse>
+<!-- Vertex:    51 -->
+<ellipse cx="648.39" cy="597.14" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>David-Olivier Lartigaud</title>
+</ellipse>
+<!-- Vertex:    52 -->
+<ellipse cx="584.66" cy="617.26" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Gilles Rouffineau</title>
+</ellipse>
+<!-- Vertex:    53 -->
+<ellipse cx="855.75" cy="422.45" rx="14.14" ry="14.14" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Florence Clavaud</title>
+</ellipse>
+<!-- Vertex:    54 -->
+<ellipse cx="1314.00" cy="504.69" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Cécile Armand</title>
+</ellipse>
+<!-- Vertex:    55 -->
+<ellipse cx="771.80" cy="821.60" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Elifsu Sabuncu</title>
+</ellipse>
+<!-- Vertex:    56 -->
+<ellipse cx="846.65" cy="806.78" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Antoine Blanchard</title>
+</ellipse>
+<!-- Vertex:    57 -->
+<ellipse cx="828.44" cy="748.55" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Cynthia Pedroja</title>
+</ellipse>
+<!-- Vertex:    58 -->
+<ellipse cx="773.82" cy="765.49" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Anne-Laure Stérin</title>
+</ellipse>
+<!-- Vertex:    59 -->
+<ellipse cx="917.62" cy="376.34" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Clément Oury</title>
+</ellipse>
+<!-- Vertex:    60 -->
+<ellipse cx="1296.42" cy="655.61" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Paul-Henri Giraud</title>
+</ellipse>
+<!-- Vertex:    61 -->
+<ellipse cx="1286.74" cy="679.94" rx="10.00" ry="10.00" style="fill:url(#Red);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas De Lavergne</title>
+</ellipse>
+<!-- Vertex:    62 -->
+<ellipse cx="847.66" cy="474.33" rx="20.00" ry="20.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Olivier Le Deuff</title>
+</ellipse>
+<!-- Vertex:    63 -->
+<ellipse cx="1261.80" cy="727.14" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marion Colas</title>
+</ellipse>
+<!-- Vertex:    64 -->
+<ellipse cx="1246.63" cy="749.86" rx="10.00" ry="10.00" style="fill:url(#Pink);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Maria Vlachou</title>
+</ellipse>
+<!-- Vertex:    65 -->
+<ellipse cx="1229.73" cy="771.89" rx="10.00" ry="10.00" style="fill:url(#White);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sylvain Machefert</title>
+</ellipse>
+<!-- Vertex:    66 -->
+<ellipse cx="1211.15" cy="793.16" rx="10.00" ry="10.00" style="fill:url(#Orange);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Robin de Mourat</title>
+</ellipse>
+<!-- Vertex:    67 -->
+<ellipse cx="1190.96" cy="813.60" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Thomas Meghe</title>
+</ellipse>
+<!-- Vertex:    68 -->
+<ellipse cx="1169.21" cy="833.14" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Erwan Mahé</title>
+</ellipse>
+<!-- Vertex:    69 -->
+<ellipse cx="950.84" cy="556.91" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Serres</title>
+</ellipse>
+<!-- Vertex:    70 -->
+<ellipse cx="852.72" cy="659.61" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Christophe Leclercq</title>
+</ellipse>
+<!-- Vertex:    71 -->
+<ellipse cx="746.51" cy="858.66" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Martin Grandjean</title>
+</ellipse>
+<!-- Vertex:    72 -->
+<ellipse cx="1068.28" cy="901.04" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Damien Baïs</title>
+</ellipse>
+<!-- Vertex:    73 -->
+<ellipse cx="1039.97" cy="915.18" rx="10.00" ry="10.00" style="fill:url(#OliveGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Johann Aussage</title>
+</ellipse>
+<!-- Vertex:    74 -->
+<ellipse cx="1010.62" cy="928.07" rx="10.00" ry="10.00" style="fill:url(#Gray);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Virginie Pringuet</title>
+</ellipse>
+<!-- Vertex:    75 -->
+<ellipse cx="980.31" cy="939.69" rx="10.00" ry="10.00" style="fill:url(#Black);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Antoine Courtin</title>
+</ellipse>
+<!-- Vertex:    76 -->
+<ellipse cx="949.16" cy="949.98" rx="10.00" ry="10.00" style="fill:url(#Maroon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Camille Bosqué</title>
+</ellipse>
+<!-- Vertex:    77 -->
+<ellipse cx="917.26" cy="958.93" rx="10.00" ry="10.00" style="fill:url(#LightGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Dupont</title>
+</ellipse>
+<!-- Vertex:    78 -->
+<ellipse cx="884.72" cy="966.49" rx="10.00" ry="10.00" style="fill:url(#LightYellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexis Chazard</title>
+</ellipse>
+<!-- Vertex:    79 -->
+<ellipse cx="851.66" cy="972.64" rx="10.00" ry="10.00" style="fill:url(#Magenta);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Aurélie Hess</title>
+</ellipse>
+<!-- Vertex:    80 -->
+<ellipse cx="818.17" cy="977.37" rx="10.00" ry="10.00" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Martine Cocaud</title>
+</ellipse>
+<!-- Vertex:    81 -->
+<ellipse cx="505.76" cy="626.79" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Braun</title>
+</ellipse>
+<!-- Vertex:    82 -->
+<ellipse cx="574.55" cy="571.73" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas Larrousse</title>
+</ellipse>
+<!-- Vertex:    83 -->
+<ellipse cx="707.06" cy="892.54" rx="17.32" ry="17.32" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Johann Holland</title>
+</ellipse>
+<!-- Vertex:    84 -->
+<ellipse cx="698.97" cy="714.67" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Charlotte Butez</title>
+</ellipse>
+<!-- Vertex:    85 -->
+<ellipse cx="623.10" cy="282.69" rx="10.00" ry="10.00" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Vincent Auzas</title>
+</ellipse>
+<!-- Vertex:    86 -->
+<ellipse cx="650.41" cy="334.57" rx="10.00" ry="10.00" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Rémy Besson</title>
+</ellipse>
+<!-- Vertex:    87 -->
+<ellipse cx="711.44" cy="309.88" rx="14.14" ry="14.14" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Michaël Bourgatte</title>
+</ellipse>
+<!-- Vertex:    88 -->
+<ellipse cx="706.05" cy="255.16" rx="10.00" ry="10.00" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Valérie Hugonnard</title>
+</ellipse>
+<!-- Vertex:    89 -->
+<ellipse cx="817.31" cy="598.20" rx="17.32" ry="17.32" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mathieu Jacomy</title>
+</ellipse>
+<!-- Vertex:    90 -->
+<ellipse cx="436.98" cy="940.18" rx="10.00" ry="10.00" style="fill:url(#WildStrawberry);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Master architecture de l&#39;information</title>
+</ellipse>
+<!-- Vertex:    91 -->
+<ellipse cx="314.59" cy="854.42" rx="10.00" ry="10.00" style="fill:url(#ForestGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Amirouche Boubekki</title>
+</ellipse>
+<!-- Vertex:    92 -->
+<ellipse cx="379.70" cy="902.72" rx="14.14" ry="14.14" style="fill:url(#Salmon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Vanessa Juloux</title>
+</ellipse>
+<!-- Vertex:    93 -->
+<ellipse cx="661.54" cy="470.09" rx="10.00" ry="10.00" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Isabelle Breuil</title>
+</ellipse>
+<!-- Vertex:    94 -->
+<ellipse cx="590.73" cy="445.74" rx="14.14" ry="14.14" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mehdi Bourgeois</title>
+</ellipse>
+<!-- Vertex:    95 -->
+<ellipse cx="341.05" cy="877.63" rx="10.00" ry="10.00" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Josquin Debaz</title>
+</ellipse>
+<!-- Vertex:    96 -->
+<ellipse cx="1035.80" cy="392.80" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Solène Roulet</title>
+</ellipse>
+<!-- Vertex:    97 -->
+<ellipse cx="1051.99" cy="317.63" rx="14.14" ry="14.14" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sophie Pène</title>
+</ellipse>
+<!-- Vertex:    98 -->
+<ellipse cx="791.01" cy="700.90" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Benjamin Ooghe</title>
+</ellipse>
+<!-- Vertex:    99 -->
+<ellipse cx="741.45" cy="688.20" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Anne L&#39;Hôte</title>
+</ellipse>
+<!-- Vertex:   100 -->
+<ellipse cx="546.22" cy="407.62" rx="10.00" ry="10.00" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Fatiha Idmhand</title>
+</ellipse>
+<!-- Vertex:   101 -->
+<ellipse cx="521.95" cy="474.33" rx="10.00" ry="10.00" style="fill:url(#LSkyBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sofia Papastamkou</title>
+</ellipse>
+<!-- Vertex:   102 -->
+<ellipse cx="647.38" cy="753.84" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Clarisse Bardiot</title>
+</ellipse>
+<!-- Vertex:   103 -->
+<ellipse cx="522.96" cy="730.55" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Vial</title>
+</ellipse>
+<!-- Vertex:   104 -->
+<ellipse cx="589.72" cy="717.84" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Yves Rinato</title>
+</ellipse>
+<!-- Vertex:   105 -->
+<ellipse cx="157.80" cy="667.83" rx="10.00" ry="10.00" style="fill:url(#Lavender);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Natalia Calderón Beltrán</title>
+</ellipse>
+<!-- Vertex:   106 -->
+<ellipse cx="149.06" cy="643.30" rx="10.00" ry="10.00" style="fill:url(#LFadedGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Thibault Clerice</title>
+</ellipse>
+<!-- Vertex:   107 -->
+<ellipse cx="142.23" cy="618.45" rx="10.00" ry="10.00" style="fill:url(#LightPurple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Silva Antonio</title>
+</ellipse>
+<!-- Vertex:   108 -->
+<ellipse cx="137.34" cy="593.34" rx="10.00" ry="10.00" style="fill:url(#CornflowerBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Juliette Hueber</title>
+</ellipse>
+<!-- Vertex:   109 -->
+<ellipse cx="765.21" cy="334.63" rx="10.00" ry="10.00" style="fill:url(#Dandelion);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Laurent Tessier</title>
+</ellipse>
+</g>         <!-- Layer Network -->
+</svg>

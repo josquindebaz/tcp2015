@@ -1,5 +1,5 @@
 *Network auteurs.net
-*Vertices   108
+*Vertices   109
 1 "Muriel Foulonneau"
 2 "Frédéric Clavert"
 3 "Richard Walter"
@@ -93,21 +93,22 @@
 91 "Amirouche Boubekki"
 92 "Vanessa Juloux"
 93 "Isabelle Breuil"
-94 "Josquin Debaz"
-95 "Solène Roulet"
-96 "Sophie Pène"
-97 "Benjamin Ooghe"
-98 "Anne L'Hôte"
-99 "Fatiha Idmhand"
-100 "Sofia Papastamkou"
-101 "Clarisse Bardiot"
-102 "Stéphane Vial"
-103 "Yves Rinato"
-104 "Natalia Calderón Beltrán"
-105 "Thibault Clerice"
-106 "Silva Antonio"
-107 "Juliette Hueber"
-108 "Laurent Tessier"
+94 "Mehdi Bourgeois"
+95 "Josquin Debaz"
+96 "Solène Roulet"
+97 "Sophie Pène"
+98 "Benjamin Ooghe"
+99 "Anne L'Hôte"
+100 "Fatiha Idmhand"
+101 "Sofia Papastamkou"
+102 "Clarisse Bardiot"
+103 "Stéphane Vial"
+104 "Yves Rinato"
+105 "Natalia Calderón Beltrán"
+106 "Thibault Clerice"
+107 "Silva Antonio"
+108 "Juliette Hueber"
+109 "Laurent Tessier"
 *Edges
 1 2 1
 8 9 1
@@ -162,100 +163,103 @@
 83 71 1
 43 89 1
 11 43 1
-95 96 1
-95 2 1
+93 94 1
+96 97 1
 96 2 1
-43 97 1
-43 57 1
+97 2 1
 43 98 1
-97 57 1
-97 98 1
-57 98 1
-99 100 1
-50 101 1
+43 57 1
+43 99 1
+98 57 1
+98 99 1
+57 99 1
+100 101 1
+100 94 1
+101 94 1
 50 102 1
 50 103 1
-101 102 1
-101 103 1
+50 104 1
 102 103 1
-106 107 1
-87 108 1
-11 101 1
-11 103 1
-101 103 1
+102 104 1
+103 104 1
+107 108 1
+87 109 1
+11 102 1
+11 104 1
+102 104 1
 
 *Partition institution
-*Vertices 108
-22
-4
-18
-18
-36
+*Vertices 109
+26
+48
+21
+21
+45
 10
-18
-12
-16
-3
-6
+21
+13
+17
+4
+17
 0
 0
 0
 0
-0
-0
-41
+42
+17
+48
 2
-7
+8
 0
 0
-0
+39
 2
 0
 0
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-35
-0
-0
-5
-0
-0
-0
-0
-2
 0
 30
 0
 0
+5
 31
 0
 0
 0
-5
+0
+44
+0
+0
+6
 0
 0
 0
+0
+2
+0
+7
+0
+0
+23
 0
 40
 0
+6
 0
 0
 0
-38
-26
-15
 0
+50
+0
+0
+0
+7
+0
+0
+16
+17
 9
 0
 0
@@ -268,204 +272,206 @@
 0
 0
 0
-27
-6
-33
-13
-20
-33
-5
-1
-28
-0
 32
-0
-0
+11
+41
+14
 24
-5
-5
-29
-8
+41
+15
+1
+33
 0
 0
 0
+2
+3
+28
+6
+6
 0
 0
+35
+0
+17
 0
 0
+12
+12
 0
 
 *Partition genres
-*Vertices 108
-1
-3
-3
-3
-1
-3
-3
-3
-1
-3
-3
-3
+*Vertices 109
+6
 1
 1
-0
-3
-3
-3
-3
-14
-0
-0
-0
-3
-0
-0
-0
-14
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-0
-0
-3
-3
-3
-3
-3
+1
+6
 1
 1
-3
-3
-3
 1
+6
+1
+1
+1
+6
+6
 0
-1
-3
-1
-1
-3
-0
-0
-3
-1
-1
-0
-0
-3
-3
-3
-3
-3
-3
-3
-1
-3
-1
-3
-0
-1
-3
-3
-3
-3
-1
-3
-3
-3
-1
-3
-44
-3
-0
-1
-0
-1
-1
-3
 1
 1
 1
 1
-3
-3
+1
+1
+1
+1
+1
+0
+0
+0
+1
+0
+0
+1
 0
 0
 1
 1
-3
+1
+1
+0
+6
+1
+0
+0
+1
+1
+1
+1
+1
+6
+6
+1
+1
+1
+6
+0
+6
+1
+6
+6
+1
+0
+0
+1
+6
+6
+0
+1
+1
+1
+1
+1
+1
+1
+1
+6
+1
+6
+1
+0
+6
+1
+1
+1
+1
+6
+1
+1
+1
+6
+1
+64
+1
+0
+0
+0
+1
+6
+6
+1
+6
+0
+0
+6
+1
+1
+0
+0
+6
+6
+1
 
 *Partition status
-*Vertices 108
-6
-6
-6
-6
-2
-2
-6
-15
-4
-4
+*Vertices 109
 8
-25
-7
+8
+8
+8
+2
+2
+8
+18
+4
+4
 10
+28
+9
+13
 0
 2
 2
 4
 4
+7
+0
+0
+53
+3
+0
+0
+0
 9
 0
 0
-0
-3
-0
+38
 0
 0
-14
-0
+7
+39
 0
 0
 0
-0
-0
-0
-0
+10
+2
 0
 0
 8
 2
+8
+8
+42
+35
+9
+18
+18
+18
+50
 0
-0
-6
-2
-6
-6
-36
-31
-7
-15
-15
-15
-43
-0
-10
+13
 5
-6
-27
+8
+30
 0
 0
 0
@@ -473,52 +479,53 @@
 0
 0
 0
-0
-55
-15
-0
-11
-11
-0
-0
-0
-0
-0
-0
-0
-0
-0
-7
-6
-4
-0
-0
-0
-0
-0
-6
-48
-7
-0
-1
+39
+64
+18
 0
 14
-15
-6
-6
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+8
+4
+0
+0
+0
+2
+0
+8
+57
+9
+0
+1
+4
+8
+17
+18
+8
+8
 2
 4
 2
 2
-39
+46
 0
 0
 4
 4
-0
+2
 
 *Vector nb of workshop
-*Vertices 108
+*Vertices 109
 1
 12
 1
@@ -612,6 +619,7 @@
 1
 2
 1
+2
 1
 1
 2
@@ -627,3 +635,193 @@
 1
 1
 1
+*Network auteurs.net
+*Vertices 109
+   1 "Muriel Foulonneau"                      0.6729    0.3100    0.5000
+   2 "Fr&#233;d&#233;ric Clavert"             0.7024    0.3435    0.5000
+   3 "Richard Walter"                         0.0978    0.4709    0.5000
+   4 "Marin Dacos"                            0.1013    0.4469    0.5000
+   5 "Besnard"                                0.1062    0.4231    0.5000
+   6 "Julien Velcin"                          0.1124    0.3996    0.5000
+   7 "St&#233;phane Pouyllau"                 0.1200    0.3765    0.5000
+   8 "Jean-Luc Pinol"                         0.1289    0.3539    0.5000
+   9 "Claire-Charlotte Butez"                 0.1390    0.3319    0.5000
+  10 "Damien Roussat"                         0.1504    0.3105    0.5000
+  11 "Francesco Beretta"                      0.4647    0.6606    0.5000
+  12 "Pierre Vernus"                          0.4878    0.6049    0.5000
+  13 "Sarah Faraud"                           0.1918    0.2507    0.5000
+  14 "Gautier Poupeau"                        0.2079    0.2324    0.5000
+  15 "Emmanuelle Morlock-Gerstenkorn"         0.2249    0.2151    0.5000
+  16 "St&#233;phane Lamass&#233;"             0.2429    0.1988    0.5000
+  17 "Philippe Rygiel"                        0.2618    0.1836    0.5000
+  18 "Karim Hammou"                           0.2816    0.1695    0.5000
+  19 "&#201;milie Bremond"                    0.3021    0.1566    0.5000
+  20 "Mills Kelly"                            0.3234    0.1449    0.5000
+  21 "J&#252;rgen Rolshoven"                  0.3453    0.1344    0.5000
+  22 "Florentin Lutz"                         0.3678    0.1252    0.5000
+  23 "Serge Noiret"                           0.3907    0.1173    0.5000
+  24 "Pierre Mounier"                         0.6549    0.4944    0.5000
+  25 "Terra"                                  0.4378    0.1055    0.5000
+  26 "Stefan Keller"                          0.4618    0.1016    0.5000
+  27 "Pascal Hurni"                           0.4859    0.0992    0.5000
+  28 "Jean"                                   0.7089    0.2796    0.5000
+  29 "Julia Schreiner"                        0.5345    0.0985    0.5000
+  30 "Seth van Hooland"                       0.5587    0.1003    0.5000
+  31 "Radu Suciu"                             0.5827    0.1034    0.5000
+  32 "Jan Baumann"                            0.6066    0.1079    0.5000
+  33 "Emre"                                   0.6301    0.1138    0.5000
+  34 "Stefan A. Keller"                       0.6533    0.1210    0.5000
+  35 "Peter Haber"                            0.6760    0.1296    0.5000
+  36 "Marco Majoleth"                         0.6982    0.1395    0.5000
+  37 "Enrico Natale"                          0.7198    0.1506    0.5000
+  38 "Alexandre Garcia"                       0.7407    0.1629    0.5000
+  39 "Mareike K&#246;nig"                     0.7053    0.4752    0.5000
+  40 "Aur&#233;lien Berra"                    0.6744    0.4478    0.5000
+  41 "Ren&#233; Schneider"                    0.7987    0.2068    0.5000
+  42 "Patrick Kammerer"                       0.8162    0.2236    0.5000
+  43 "Paul Girard"                            0.5663    0.6140    0.5000
+  44 "Tommaso Venturini"                      0.5454    0.5836    0.5000
+  45 "Serge Heiden"                           0.8626    0.2797    0.5000
+  46 "Alexis Lavrentiev"                      0.8759    0.3000    0.5000
+  47 "Lars Wieneke"                           0.8879    0.3211    0.5000
+  48 "Franziska Heimburger"                   0.6679    0.3941    0.5000
+  49 "Isabelle Jouve"                         0.9082    0.3652    0.5000
+  50 "Nicolas Th&#233;ly"                     0.4359    0.6353    0.5000
+  51 "David-Olivier Lartigaud"                0.4618    0.5714    0.5000
+  52 "Gilles Rouffineau"                      0.4164    0.5907    0.5000
+  53 "Florence Clavaud"                       0.6095    0.4043    0.5000
+  54 "C&#233;cile Armand"                     0.9359    0.4830    0.5000
+  55 "Elifsu Sabuncu"                         0.5497    0.7862    0.5000
+  56 "Antoine Blanchard"                      0.6030    0.7720    0.5000
+  57 "Cynthia Pedroja"                        0.5901    0.7163    0.5000
+  58 "Anne-Laure St&#233;rin"                 0.5512    0.7325    0.5000
+  59 "Cl&#233;ment Oury"                      0.6536    0.3601    0.5000
+  60 "Paul-Henri Giraud"                      0.9234    0.6274    0.5000
+  61 "Nicolas De Lavergne"                    0.9165    0.6507    0.5000
+  62 "Olivier Le Deuff"                       0.6037    0.4539    0.5000
+  63 "Marion Colas"                           0.8987    0.6958    0.5000
+  64 "Maria Vlachou"                          0.8879    0.7176    0.5000
+  65 "Sylvain Machefert"                      0.8759    0.7386    0.5000
+  66 "Robin de Mourat"                        0.8626    0.7590    0.5000
+  67 "Thomas Meghe"                           0.8483    0.7786    0.5000
+  68 "Erwan Mah&#233;"                        0.8328    0.7973    0.5000
+  69 "Alexandre Serres"                       0.6772    0.5329    0.5000
+  70 "Christophe Leclercq"                    0.6073    0.6312    0.5000
+  71 "Martin Grandjean"                       0.5317    0.8217    0.5000
+  72 "Damien Ba&#239;s"                       0.7609    0.8622    0.5000
+  73 "Johann Aussage"                         0.7407    0.8758    0.5000
+  74 "Virginie Pringuet"                      0.7198    0.8881    0.5000
+  75 "Antoine Courtin"                        0.6982    0.8992    0.5000
+  76 "Camille Bosqu&#233;"                    0.6760    0.9091    0.5000
+  77 "Alexandre Dupont"                       0.6533    0.9176    0.5000
+  78 "Alexis Chazard"                         0.6301    0.9249    0.5000
+  79 "Aur&#233;lie Hess"                      0.6066    0.9308    0.5000
+  80 "Martine Cocaud"                         0.5827    0.9353    0.5000
+  81 "Pierre Braun"                           0.3602    0.5998    0.5000
+  82 "Nicolas Larrousse"                      0.4092    0.5471    0.5000
+  83 "Johann Holland"                         0.5036    0.8541    0.5000
+  84 "Charlotte Butez"                        0.4892    0.6879    0.5000
+  85 "Vincent Auzas"                          0.4438    0.2705    0.5000
+  86 "R&#233;my Besson"                       0.4633    0.3202    0.5000
+  87 "Micha&#235;l Bourgatte"                 0.5067    0.2965    0.5000
+  88 "Val&#233;rie Hugonnard"                 0.5029    0.2442    0.5000
+  89 "Mathieu Jacomy"                         0.5821    0.5724    0.5000
+  90 "Master architecture de l&#39;information"    0.3112    0.8997    0.5000
+  91 "Amirouche Boubekki"                     0.2241    0.8176    0.5000
+  92 "Vanessa Juloux"                         0.2704    0.8639    0.5000
+  93 "Isabelle Breuil"                        0.4712    0.4498    0.5000
+  94 "Mehdi Bourgeois"                        0.4207    0.4265    0.5000
+  95 "Josquin Debaz"                          0.2429    0.8398    0.5000
+  96 "Sol&#232;ne Roulet"                     0.7378    0.3759    0.5000
+  97 "Sophie P&#232;ne"                       0.7493    0.3040    0.5000
+  98 "Benjamin Ooghe"                         0.5634    0.6707    0.5000
+  99 "Anne L&#39;H&#244;te"                   0.5281    0.6586    0.5000
+ 100 "Fatiha Idmhand"                         0.3890    0.3901    0.5000
+ 101 "Sofia Papastamkou"                      0.3718    0.4539    0.5000
+ 102 "Clarisse Bardiot"                       0.4611    0.7214    0.5000
+ 103 "St&#233;phane Vial"                     0.3725    0.6991    0.5000
+ 104 "Yves Rinato"                            0.4200    0.6869    0.5000
+ 105 "Natalia Calder&#243;n Beltr&#225;n"     0.1124    0.6391    0.5000
+ 106 "Thibault Clerice"                       0.1062    0.6156    0.5000
+ 107 "Silva Antonio"                          0.1013    0.5918    0.5000
+ 108 "Juliette Hueber"                        0.0978    0.5678    0.5000
+ 109 "Laurent Tessier"                        0.5450    0.3202    0.5000
+*Edges
+   1    2 1
+   8    9 1
+  11   12 1
+  13   14 1
+  16   17 1
+  18   19 1
+  21   22 1
+   2   28 1
+  36   37 1
+  24   39 1
+  39   40 1
+  24   40 1
+  43   44 1
+  45   46 1
+   2   40 1
+   2   48 1
+  40   48 1
+  47   49 1
+  50   51 1
+  50   52 1
+  51   52 1
+  40   53 1
+  55   56 1
+  55   57 1
+  55   58 1
+  56   57 1
+  56   58 1
+  57   58 1
+   2   59 1
+  40   62 1
+  63   64 1
+  67   68 1
+  24   69 1
+  43   70 1
+  55   71 1
+  72   73 1
+  74   75 1
+  76   77 1
+  79   80 1
+  52   81 1
+  81   82 1
+  52   82 1
+  11   84 1
+  85   86 1
+  85   87 1
+  85   88 1
+  86   87 1
+  86   88 1
+  87   88 1
+  43   89 1
+  71   83 1
+  43   89 1
+  11   43 1
+  93   94 1
+  96   97 1
+   2   96 1
+   2   97 1
+  43   98 1
+  43   57 1
+  43   99 1
+  57   98 1
+  98   99 1
+  57   99 1
+ 100  101 1
+  94  100 1
+  94  101 1
+  50  102 1
+  50  103 1
+  50  104 1
+ 102  103 1
+ 102  104 1
+ 103  104 1
+ 107  108 1
+  87  109 1
+  11  102 1
+  11  104 1
+ 102  104 1
+

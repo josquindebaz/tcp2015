@@ -1,11 +1,97 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Title: 1. auteurs.net (108) -->
+<!-- Title: 1. auteurs.net (109) -->
 <!-- Creator: Pajek: http://pajek.imfm.si/doku.php?id=history -->
-<!-- CreationDate: 06-11-2015, 12:32:08 -->
-<svg xml:space="preserve" viewBox="0 0 1374 746" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
-<title>1. auteurs.net (108)</title>
+<!-- CreationDate: 06-22-2015, 18:36:50 -->
+<svg xml:space="preserve" viewBox="0 0 1404 1045" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>1. auteurs.net (109)</title>
+<defs>
+ <radialGradient id="Purple" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(140,35,255)"/>
+  <stop offset="1" style="stop-color:rgb(70,18,128)"/>
+ </radialGradient>
+ <radialGradient id="LimeGreen" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(127,255,0)"/>
+  <stop offset="1" style="stop-color:rgb(64,128,0)"/>
+ </radialGradient>
+ <radialGradient id="MidnightBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,112,145)"/>
+  <stop offset="1" style="stop-color:rgb(0,56,72)"/>
+ </radialGradient>
+ <radialGradient id="Blue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,0,255)"/>
+  <stop offset="1" style="stop-color:rgb(0,0,128)"/>
+ </radialGradient>
+ <radialGradient id="TealBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(30,249,163)"/>
+  <stop offset="1" style="stop-color:rgb(15,124,82)"/>
+ </radialGradient>
+ <radialGradient id="CornflowerBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(89,221,255)"/>
+  <stop offset="1" style="stop-color:rgb(44,110,128)"/>
+ </radialGradient>
+ <radialGradient id="CadetBlue" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(96,109,196)"/>
+  <stop offset="1" style="stop-color:rgb(48,54,98)"/>
+ </radialGradient>
+ <radialGradient id="Black" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(160,160,160)"/>
+  <stop offset="1" style="stop-color:rgb(0,0,0)"/>
+ </radialGradient>
+ <radialGradient id="Cyan" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(0,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(0,128,128)"/>
+ </radialGradient>
+ <radialGradient id="Orange" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,99,33)"/>
+  <stop offset="1" style="stop-color:rgb(128,50,16)"/>
+ </radialGradient>
+ <radialGradient id="Red" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,0,0)"/>
+  <stop offset="1" style="stop-color:rgb(128,0,0)"/>
+ </radialGradient>
+ <radialGradient id="Gray25" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(191,191,191)"/>
+  <stop offset="1" style="stop-color:rgb(96,96,96)"/>
+ </radialGradient>
+ <radialGradient id="Gray65" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(89,89,89)"/>
+  <stop offset="1" style="stop-color:rgb(44,44,44)"/>
+ </radialGradient>
+ <radialGradient id="Gray75" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(160,160,160)"/>
+  <stop offset="1" style="stop-color:rgb(63,63,63)"/>
+ </radialGradient>
+ <radialGradient id="Pink" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,216,242)"/>
+  <stop offset="1" style="stop-color:rgb(128,108,121)"/>
+ </radialGradient>
+ <radialGradient id="Tan" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(219,147,112)"/>
+  <stop offset="1" style="stop-color:rgb(110,74,56)"/>
+ </radialGradient>
+ <radialGradient id="GreenYellow" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(216,255,79)"/>
+  <stop offset="1" style="stop-color:rgb(108,128,40)"/>
+ </radialGradient>
+ <radialGradient id="Maroon" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(173,0,0)"/>
+  <stop offset="1" style="stop-color:rgb(86,0,0)"/>
+ </radialGradient>
+ <radialGradient id="Magenta" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,0,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,0,128)"/>
+ </radialGradient>
+ <radialGradient id="Yellow" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,0)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,0)"/>
+ </radialGradient>
+ <radialGradient id="White" cx="30%" cy="30%" fx="30%" fy="30%" r="50%" gradientUnits="objectBoundingBox">
+  <stop offset="0" style="stop-color:rgb(255,255,255)"/>
+  <stop offset="1" style="stop-color:rgb(128,128,128)"/>
+ </radialGradient>
+</defs>
 <g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
-<g transform="translate(3 728)">
+<g transform="translate(3 1027)">
 <g transform="scale(0.1)">
 <g transform="matrix(1 0 0 -1 0 96)">
 <path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
@@ -43,490 +129,608 @@
          style="fill:none; stroke:white; stroke-width:5;"/>
 </g>
 </g>
-<animateMotion dur="20s" path="M3 0 L1356 0" begin="120s" fill="freeze"/>
+<animateMotion dur="20s" path="M3 0 L1386 0" begin="120s" fill="freeze"/>
 </g>
-<g transform="translate(3 728)">
+<g transform="translate(3 1027)">
 <g transform="scale(0.1)">
 <text x="5" y="140" style="font-family:Arial;font-size:55px;fill:red;">Pajek</text>
 </g>
-<animateMotion dur="0.1s" path="M3 0 L1356 0" begin="120s" fill="freeze"/>
+<animateMotion dur="0.1s" path="M3 0 L1386 0" begin="120s" fill="freeze"/>
 </g>
 </g>      <!-- Layer Signature -->
 
 <g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
 
 <!-- Edge:     1    2 -->
-<line x1="691.92" y1="360.72" x2="629.67" y2="422.02" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="944.77" y1="323.98" x2="986.24" y2="358.92" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     8    9 -->
-<line x1="1173.84" y1="640.34" x2="1268.17" y2="707.57" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="180.91" y1="369.87" x2="195.19" y2="346.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    11   12 -->
-<line x1="579.37" y1="499.82" x2="656.34" y2="644.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="652.44" y1="690.31" x2="684.80" y2="632.08" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    13   14 -->
-<line x1="376.89" y1="91.68" x2="518.60" y2="126.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="269.35" y1="261.93" x2="291.84" y2="242.87" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    16   17 -->
-<line x1="382.88" y1="609.35" x2="373.98" y2="549.00" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="341.05" y1="207.78" x2="367.61" y2="191.89" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    18   19 -->
-<line x1="577.75" y1="312.05" x2="786.49" y2="412.40" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="395.36" y1="177.15" x2="424.20" y2="163.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    21   22 -->
-<line x1="780.84" y1="170.52" x2="835.00" y2="91.29" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="484.79" y1="140.41" x2="516.32" y2="130.79" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     2   28 -->
-<line x1="629.67" y1="422.02" x2="868.32" y2="299.53" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="986.24" y1="358.92" x2="995.34" y2="292.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    36   37 -->
-<line x1="1133.22" y1="407.11" x2="1268.68" y2="448.74" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="980.31" y1="145.73" x2="1010.62" y2="157.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    24   39 -->
-<line x1="604.52" y1="281.35" x2="761.77" y2="368.77" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="919.48" y1="516.68" x2="990.29" y2="496.56" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    39   40 -->
-<line x1="761.77" y1="368.77" x2="756.40" y2="296.27" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="990.29" y1="496.56" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    24   40 -->
-<line x1="604.52" y1="281.35" x2="756.40" y2="296.27" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="919.48" y1="516.68" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    43   44 -->
-<line x1="725.98" y1="531.55" x2="923.76" y2="406.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="795.06" y1="641.61" x2="765.73" y2="609.85" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    45   46 -->
-<line x1="353.97" y1="153.85" x2="412.54" y2="232.15" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1211.15" y1="292.25" x2="1229.73" y2="313.52" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     2   40 -->
-<line x1="629.67" y1="422.02" x2="756.40" y2="296.27" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="986.24" y1="358.92" x2="946.79" y2="467.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     2   48 -->
-<line x1="629.67" y1="422.02" x2="642.19" y2="316.66" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="986.24" y1="358.92" x2="937.69" y2="411.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    40   48 -->
-<line x1="756.40" y1="296.27" x2="642.19" y2="316.66" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="946.79" y1="467.97" x2="937.69" y2="411.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    47   49 -->
-<line x1="1058.42" y1="79.82" x2="934.05" y2="130.64" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1246.63" y1="335.56" x2="1275.18" y2="381.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    50   51 -->
-<line x1="383.24" y1="370.99" x2="380.18" y2="283.78" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="611.97" y1="663.84" x2="648.39" y2="597.14" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    50   52 -->
-<line x1="383.24" y1="370.99" x2="469.51" y2="272.76" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="611.97" y1="663.84" x2="584.66" y2="617.26" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    51   52 -->
-<line x1="380.18" y1="283.78" x2="469.51" y2="272.76" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="648.39" y1="597.14" x2="584.66" y2="617.26" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    40   53 -->
-<line x1="756.40" y1="296.27" x2="793.75" y2="235.75" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="946.79" y1="467.97" x2="855.75" y2="422.45" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    55   56 -->
-<line x1="1051.69" y1="428.21" x2="938.55" y2="456.71" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="771.80" y1="821.60" x2="846.65" y2="806.78" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    55   57 -->
-<line x1="1051.69" y1="428.21" x2="775.52" y2="475.31" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="771.80" y1="821.60" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    55   58 -->
-<line x1="1051.69" y1="428.21" x2="1045.31" y2="481.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="771.80" y1="821.60" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    56   57 -->
-<line x1="938.55" y1="456.71" x2="775.52" y2="475.31" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="846.65" y1="806.78" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    56   58 -->
-<line x1="938.55" y1="456.71" x2="1045.31" y2="481.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="846.65" y1="806.78" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    57   58 -->
-<line x1="775.52" y1="475.31" x2="1045.31" y2="481.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="828.44" y1="748.55" x2="773.82" y2="765.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     2   59 -->
-<line x1="629.67" y1="422.02" x2="453.29" y2="143.85" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="986.24" y1="358.92" x2="917.62" y2="376.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    40   62 -->
-<line x1="756.40" y1="296.27" x2="824.53" y2="174.08" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="946.79" y1="467.97" x2="847.66" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    63   64 -->
-<line x1="306.11" y1="700.26" x2="410.22" y2="637.43" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1261.80" y1="727.14" x2="1246.63" y2="749.86" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    67   68 -->
-<line x1="604.26" y1="111.22" x2="710.63" y2="49.52" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1190.96" y1="813.60" x2="1169.21" y2="833.14" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    24   69 -->
-<line x1="604.52" y1="281.35" x2="376.52" y2="358.25" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="919.48" y1="516.68" x2="950.84" y2="556.91" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    43   70 -->
-<line x1="725.98" y1="531.55" x2="668.02" y2="664.65" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="795.06" y1="641.61" x2="852.72" y2="659.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    55   71 -->
-<line x1="1051.69" y1="428.21" x2="1002.74" y2="337.54" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="771.80" y1="821.60" x2="746.51" y2="858.66" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    72   73 -->
-<line x1="983.20" y1="230.99" x2="1049.94" y2="154.64" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1068.28" y1="901.04" x2="1039.97" y2="915.18" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    74   75 -->
-<line x1="1262.12" y1="562.21" x2="1129.13" y2="518.29" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="1010.62" y1="928.07" x2="980.31" y2="939.69" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    76   77 -->
-<line x1="1217.87" y1="465.11" x2="1067.28" y2="486.49" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="949.16" y1="949.98" x2="917.26" y2="958.93" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    79   80 -->
-<line x1="401.96" y1="38.03" x2="310.00" y2="106.22" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="851.66" y1="972.64" x2="818.17" y2="977.37" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    52   81 -->
-<line x1="469.51" y1="272.76" x2="611.32" y2="199.21" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="584.66" y1="617.26" x2="505.76" y2="626.79" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    81   82 -->
-<line x1="611.32" y1="199.21" x2="431.57" y2="174.44" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="505.76" y1="626.79" x2="574.55" y2="571.73" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    52   82 -->
-<line x1="469.51" y1="272.76" x2="431.57" y2="174.44" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="584.66" y1="617.26" x2="574.55" y2="571.73" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    11   84 -->
-<line x1="579.37" y1="499.82" x2="491.38" y2="625.21" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="652.44" y1="690.31" x2="686.83" y2="718.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    85   86 -->
-<line x1="293.13" y1="402.93" x2="285.56" y2="363.45" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="623.10" y1="282.69" x2="650.41" y2="334.57" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    85   87 -->
-<line x1="293.13" y1="402.93" x2="180.31" y2="429.62" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="623.10" y1="282.69" x2="711.44" y2="309.88" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    85   88 -->
-<line x1="293.13" y1="402.93" x2="322.47" y2="354.06" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="623.10" y1="282.69" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    86   87 -->
-<line x1="285.56" y1="363.45" x2="180.31" y2="429.62" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="650.41" y1="334.57" x2="711.44" y2="309.88" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    86   88 -->
-<line x1="285.56" y1="363.45" x2="322.47" y2="354.06" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="650.41" y1="334.57" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    87   88 -->
-<line x1="180.31" y1="429.62" x2="322.47" y2="354.06" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="711.44" y1="309.88" x2="706.05" y2="255.16" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    43   89 -->
-<path d="M 725.98 531.55 C 723.58 520.73 692.48 461.09 684.99 452.93" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<path d="M 795.06 641.61 C 799.15 637.09 816.03 604.16 817.31 598.20" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
 <!-- Edge:    71   83 -->
-<line x1="1002.74" y1="337.54" x2="1226.05" y2="313.97" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="746.51" y1="858.66" x2="707.06" y2="892.54" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    43   89 -->
-<path d="M 725.98 531.55 C 718.49 523.38 687.39 463.75 684.99 452.93" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<path d="M 795.06 641.61 C 796.34 635.65 813.22 602.72 817.31 598.20" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
 <!-- Edge:    11   43 -->
-<line x1="579.37" y1="499.82" x2="725.98" y2="531.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    95   96 -->
-<line x1="543.30" y1="244.63" x2="533.25" y2="347.42" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:     2   95 -->
-<line x1="629.67" y1="422.02" x2="543.30" y2="244.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="652.44" y1="690.31" x2="795.06" y2="641.61" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    93   94 -->
+<line x1="661.54" y1="470.09" x2="590.73" y2="445.74" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    96   97 -->
+<line x1="1035.80" y1="392.80" x2="1051.99" y2="317.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:     2   96 -->
-<line x1="629.67" y1="422.02" x2="533.25" y2="347.42" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    43   97 -->
-<line x1="725.98" y1="531.55" x2="898.94" y2="567.05" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    43   57 -->
-<line x1="725.98" y1="531.55" x2="775.52" y2="475.31" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="986.24" y1="358.92" x2="1035.80" y2="392.80" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:     2   97 -->
+<line x1="986.24" y1="358.92" x2="1051.99" y2="317.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    43   98 -->
-<line x1="725.98" y1="531.55" x2="798.93" y2="538.72" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    57   97 -->
-<line x1="775.52" y1="475.31" x2="898.94" y2="567.05" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    97   98 -->
-<line x1="898.94" y1="567.05" x2="798.93" y2="538.72" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="795.06" y1="641.61" x2="791.01" y2="700.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   57 -->
+<line x1="795.06" y1="641.61" x2="828.44" y2="748.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    43   99 -->
+<line x1="795.06" y1="641.61" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    57   98 -->
-<line x1="775.52" y1="475.31" x2="798.93" y2="538.72" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    99  100 -->
-<line x1="282.33" y1="268.45" x2="345.21" y2="233.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    50  101 -->
-<line x1="383.24" y1="370.99" x2="503.13" y2="455.56" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="828.44" y1="748.55" x2="791.01" y2="700.90" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    98   99 -->
+<line x1="791.01" y1="700.90" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    57   99 -->
+<line x1="828.44" y1="748.55" x2="741.45" y2="688.20" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   100  101 -->
+<line x1="546.22" y1="407.62" x2="521.95" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    94  100 -->
+<line x1="590.73" y1="445.74" x2="546.22" y2="407.62" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    94  101 -->
+<line x1="590.73" y1="445.74" x2="521.95" y2="474.33" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    50  102 -->
-<line x1="383.24" y1="370.99" x2="289.79" y2="429.52" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<line x1="611.97" y1="663.84" x2="647.38" y2="753.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:    50  103 -->
-<line x1="383.24" y1="370.99" x2="385.85" y2="470.70" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:   101  102 -->
-<line x1="503.13" y1="455.56" x2="289.79" y2="429.52" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:   101  103 -->
-<path d="M 503.13 455.56 C 489.46 461.19 400.50 472.67 385.85 470.70" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<line x1="611.97" y1="663.84" x2="522.96" y2="730.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    50  104 -->
+<line x1="611.97" y1="663.84" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
 <!-- Edge:   102  103 -->
-<line x1="289.79" y1="429.52" x2="385.85" y2="470.70" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:   106  107 -->
-<line x1="792.17" y1="655.96" x2="694.53" y2="590.15" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    87  108 -->
-<line x1="180.31" y1="429.62" x2="143.21" y2="523.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    11  101 -->
-<line x1="579.37" y1="499.82" x2="503.13" y2="455.56" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:    11  103 -->
-<line x1="579.37" y1="499.82" x2="385.85" y2="470.70" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
-<!-- Edge:   101  103 -->
-<path d="M 503.13 455.56 C 488.48 453.60 399.52 465.08 385.85 470.70" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<line x1="647.38" y1="753.84" x2="522.96" y2="730.55" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   102  104 -->
+<path d="M 647.38 753.84 C 639.25 751.36 595.52 724.05 589.72 717.84" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
+<!-- Edge:   103  104 -->
+<line x1="522.96" y1="730.55" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   107  108 -->
+<line x1="142.23" y1="618.45" x2="137.34" y2="593.34" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    87  109 -->
+<line x1="711.44" y1="309.88" x2="765.21" y2="334.63" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11  102 -->
+<line x1="652.44" y1="690.31" x2="647.38" y2="753.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:    11  104 -->
+<line x1="652.44" y1="690.31" x2="589.72" y2="717.84" style="stroke-width:2.00;stroke:rgb(0,0,255)"/>
+<!-- Edge:   102  104 -->
+<path d="M 647.38 753.84 C 641.58 747.63 597.85 720.32 589.72 717.84" style="stroke-width:2.00;stroke:rgb(0,0,255);fill:none"/> 
 
 <!-- Vertex:     1 -->
-<ellipse cx="691.92" cy="360.72" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="694.77" y="371.35" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Muriel Foulonneau</text>
+<ellipse cx="944.77" cy="323.98" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Muriel Foulonneau</title>
+</ellipse>
 <!-- Vertex:     2 -->
-<ellipse cx="629.67" cy="422.02" rx="12.47" ry="12.47" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="632.51" y="432.65" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Frédéric Clavert</text>
+<ellipse cx="986.24" cy="358.92" rx="34.64" ry="34.64" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Frédéric Clavert</title>
+</ellipse>
 <!-- Vertex:     3 -->
-<ellipse cx="959.93" cy="429.07" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="962.78" y="439.70" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Richard Walter</text>
+<ellipse cx="137.34" cy="492.07" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Richard Walter</title>
+</ellipse>
 <!-- Vertex:     4 -->
-<ellipse cx="370.36" cy="151.35" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="373.20" y="161.97" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Marin Dacos</text>
+<ellipse cx="142.23" cy="466.96" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marin Dacos</title>
+</ellipse>
 <!-- Vertex:     5 -->
-<ellipse cx="680.69" cy="266.38" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="683.54" y="277.00" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Besnard</text>
+<ellipse cx="149.06" cy="442.11" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Besnard</title>
+</ellipse>
 <!-- Vertex:     6 -->
-<ellipse cx="487.44" cy="516.48" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="490.29" y="527.10" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Julien Velcin</text>
+<ellipse cx="157.80" cy="417.59" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Julien Velcin</title>
+</ellipse>
 <!-- Vertex:     7 -->
-<ellipse cx="1093.89" cy="622.01" rx="5.09" ry="5.09" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1096.73" y="632.63" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Stéphane Pouyllau</text>
+<ellipse cx="168.43" cy="393.48" rx="14.14" ry="14.14" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Pouyllau</title>
+</ellipse>
 <!-- Vertex:     8 -->
-<ellipse cx="1173.84" cy="640.34" rx="3.60" ry="3.60" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1176.69" y="650.97" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jean-Luc Pinol</text>
+<ellipse cx="180.91" cy="369.87" rx="10.00" ry="10.00" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jean-Luc Pinol</title>
+</ellipse>
 <!-- Vertex:     9 -->
-<ellipse cx="1268.17" cy="707.57" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1271.02" y="718.19" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Claire-Charlotte Butez</text>
+<ellipse cx="195.19" cy="346.84" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Claire-Charlotte Butez</title>
+</ellipse>
 <!-- Vertex:    10 -->
-<ellipse cx="896.22" cy="506.21" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="899.07" y="516.84" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Damien Roussat</text>
+<ellipse cx="211.23" cy="324.45" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Damien Roussat</title>
+</ellipse>
 <!-- Vertex:    11 -->
-<ellipse cx="579.37" cy="499.82" rx="8.05" ry="8.05" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="582.22" y="510.45" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Francesco Beretta</text>
+<ellipse cx="652.44" cy="690.31" rx="22.36" ry="22.36" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Francesco Beretta</title>
+</ellipse>
 <!-- Vertex:    12 -->
-<ellipse cx="656.34" cy="644.16" rx="3.60" ry="3.60" style="fill:rgb(255,132,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="659.19" y="654.79" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Pierre Vernus</text>
+<ellipse cx="684.80" cy="632.08" rx="10.00" ry="10.00" style="fill:url(#CornflowerBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Vernus</title>
+</ellipse>
 <!-- Vertex:    13 -->
-<ellipse cx="376.89" cy="91.68" rx="3.60" ry="3.60" style="fill:rgb(255,99,33);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="379.73" y="102.30" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Sarah Faraud</text>
+<ellipse cx="269.35" cy="261.93" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sarah Faraud</title>
+</ellipse>
 <!-- Vertex:    14 -->
-<ellipse cx="518.60" cy="126.63" rx="3.60" ry="3.60" style="fill:rgb(30,249,163);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="521.45" y="137.26" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Gautier Poupeau</text>
+<ellipse cx="291.84" cy="242.87" rx="10.00" ry="10.00" style="fill:url(#Black);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Gautier Poupeau</title>
+</ellipse>
 <!-- Vertex:    15 -->
-<ellipse cx="407.19" cy="371.38" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="410.04" y="382.01" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Emmanuelle Morlock-Gerstenkorn</text>
+<ellipse cx="315.76" cy="224.80" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Emmanuelle Morlock-Gerstenkorn</title>
+</ellipse>
 <!-- Vertex:    16 -->
-<ellipse cx="382.88" cy="609.35" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="385.73" y="619.98" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Stéphane Lamassé</text>
+<ellipse cx="341.05" cy="207.78" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Lamassé</title>
+</ellipse>
 <!-- Vertex:    17 -->
-<ellipse cx="373.98" cy="549.00" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="376.83" y="559.63" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Philippe Rygiel</text>
+<ellipse cx="367.61" cy="191.89" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Philippe Rygiel</title>
+</ellipse>
 <!-- Vertex:    18 -->
-<ellipse cx="577.75" cy="312.05" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="580.60" y="322.67" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Karim Hammou</text>
+<ellipse cx="395.36" cy="177.15" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Karim Hammou</title>
+</ellipse>
 <!-- Vertex:    19 -->
-<ellipse cx="786.49" cy="412.40" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="789.33" y="423.02" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Émilie Bremond</text>
+<ellipse cx="424.20" cy="163.63" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Émilie Bremond</title>
+</ellipse>
 <!-- Vertex:    20 -->
-<ellipse cx="804.09" cy="693.05" rx="3.60" ry="3.60" style="fill:rgb(96,109,196);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="806.94" y="703.67" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Mills Kelly</text>
+<ellipse cx="454.04" cy="151.37" rx="10.00" ry="10.00" style="fill:url(#Orange);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mills Kelly</title>
+</ellipse>
 <!-- Vertex:    21 -->
-<ellipse cx="780.84" cy="170.52" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="783.69" y="181.14" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jürgen Rolshoven</text>
+<ellipse cx="484.79" cy="140.41" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jürgen Rolshoven</title>
+</ellipse>
 <!-- Vertex:    22 -->
-<ellipse cx="835.00" cy="91.29" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="837.84" y="101.91" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Florentin Lutz</text>
+<ellipse cx="516.32" cy="130.79" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Florentin Lutz</title>
+</ellipse>
 <!-- Vertex:    23 -->
-<ellipse cx="127.03" cy="306.71" rx="5.09" ry="5.09" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="129.88" y="317.34" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Serge Noiret</text>
+<ellipse cx="548.55" cy="122.53" rx="14.14" ry="14.14" style="fill:url(#Black);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Serge Noiret</title>
+</ellipse>
 <!-- Vertex:    24 -->
-<ellipse cx="604.52" cy="281.35" rx="8.05" ry="8.05" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="607.37" y="291.97" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Pierre Mounier</text>
+<ellipse cx="919.48" cy="516.68" rx="22.36" ry="22.36" style="fill:url(#Red);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Mounier</title>
+</ellipse>
 <!-- Vertex:    25 -->
-<ellipse cx="412.20" cy="279.25" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="415.05" y="289.88" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Terra</text>
+<ellipse cx="614.66" cy="110.23" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Terra</title>
+</ellipse>
 <!-- Vertex:    26 -->
-<ellipse cx="499.89" cy="597.73" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="502.73" y="608.36" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Stefan Keller</text>
+<ellipse cx="648.32" cy="106.22" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stefan Keller</title>
+</ellipse>
 <!-- Vertex:    27 -->
-<ellipse cx="326.58" cy="76.11" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="329.43" y="86.74" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Pascal Hurni</text>
+<ellipse cx="682.23" cy="103.67" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pascal Hurni</title>
+</ellipse>
 <!-- Vertex:    28 -->
-<ellipse cx="868.32" cy="299.53" rx="3.60" ry="3.60" style="fill:rgb(173,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="871.17" y="310.16" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jean</text>
+<ellipse cx="995.34" cy="292.22" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jean</title>
+</ellipse>
 <!-- Vertex:    29 -->
-<ellipse cx="330.38" cy="253.23" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="333.23" y="263.85" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Julia Schreiner</text>
+<ellipse cx="750.37" cy="102.94" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Julia Schreiner</title>
+</ellipse>
 <!-- Vertex:    30 -->
-<ellipse cx="221.74" cy="207.49" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="224.59" y="218.11" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Seth van Hooland</text>
+<ellipse cx="784.37" cy="104.76" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Seth van Hooland</title>
+</ellipse>
 <!-- Vertex:    31 -->
-<ellipse cx="631.77" cy="631.54" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="634.62" y="642.16" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Radu Suciu</text>
+<ellipse cx="818.17" cy="108.05" rx="10.00" ry="10.00" style="fill:url(#Gray25);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Radu Suciu</title>
+</ellipse>
 <!-- Vertex:    32 -->
-<ellipse cx="692.61" cy="231.30" rx="5.09" ry="5.09" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="695.46" y="241.93" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Jan Baumann</text>
+<ellipse cx="851.66" cy="112.77" rx="14.14" ry="14.14" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Jan Baumann</title>
+</ellipse>
 <!-- Vertex:    33 -->
-<ellipse cx="117.79" cy="603.42" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="120.63" y="614.05" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Emre</text>
+<ellipse cx="884.72" cy="118.92" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Emre</title>
+</ellipse>
 <!-- Vertex:    34 -->
-<ellipse cx="1079.98" cy="47.23" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1082.83" y="57.85" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Stefan A. Keller</text>
+<ellipse cx="917.26" cy="126.48" rx="10.00" ry="10.00" style="fill:url(#Orange);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stefan A. Keller</title>
+</ellipse>
 <!-- Vertex:    35 -->
-<ellipse cx="1112.72" cy="199.27" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1115.56" y="209.89" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Peter Haber</text>
+<ellipse cx="949.16" cy="135.43" rx="10.00" ry="10.00" style="fill:url(#Gray65);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Peter Haber</title>
+</ellipse>
 <!-- Vertex:    36 -->
-<ellipse cx="1133.22" cy="407.11" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1136.07" y="417.73" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Marco Majoleth</text>
+<ellipse cx="980.31" cy="145.73" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marco Majoleth</title>
+</ellipse>
 <!-- Vertex:    37 -->
-<ellipse cx="1268.68" cy="448.74" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1271.53" y="459.37" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Enrico Natale</text>
+<ellipse cx="1010.62" cy="157.34" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Enrico Natale</title>
+</ellipse>
 <!-- Vertex:    38 -->
-<ellipse cx="1183.38" cy="238.59" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1186.23" y="249.21" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alexandre Garcia</text>
+<ellipse cx="1039.97" cy="170.24" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Garcia</title>
+</ellipse>
 <!-- Vertex:    39 -->
-<ellipse cx="761.77" cy="368.77" rx="3.60" ry="3.60" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="764.62" y="379.39" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Mareike König</text>
+<ellipse cx="990.29" cy="496.56" rx="10.00" ry="10.00" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mareike König</title>
+</ellipse>
 <!-- Vertex:    40 -->
-<ellipse cx="756.40" cy="296.27" rx="10.18" ry="10.18" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="759.25" y="306.89" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Aurélien Berra</text>
+<ellipse cx="946.79" cy="467.97" rx="28.28" ry="28.28" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Aurélien Berra</title>
+</ellipse>
 <!-- Vertex:    41 -->
-<ellipse cx="1098.19" cy="441.03" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1101.04" y="451.65" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">René Schneider</text>
+<ellipse cx="1121.38" cy="216.16" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>René Schneider</title>
+</ellipse>
 <!-- Vertex:    42 -->
-<ellipse cx="228.19" cy="634.85" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="231.04" y="645.47" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Patrick Kammerer</text>
+<ellipse cx="1146.00" cy="233.70" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Patrick Kammerer</title>
+</ellipse>
 <!-- Vertex:    43 -->
-<ellipse cx="725.98" cy="531.55" rx="10.18" ry="10.18" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="728.83" y="542.17" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Paul Girard</text>
+<ellipse cx="795.06" cy="641.61" rx="28.28" ry="28.28" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Paul Girard</title>
+</ellipse>
 <!-- Vertex:    44 -->
-<ellipse cx="923.76" cy="406.55" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="926.61" y="417.18" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Tommaso Venturini</text>
+<ellipse cx="765.73" cy="609.85" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Tommaso Venturini</title>
+</ellipse>
 <!-- Vertex:    45 -->
-<ellipse cx="353.97" cy="153.85" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="356.82" y="164.47" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Serge Heiden</text>
+<ellipse cx="1211.15" cy="292.25" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Serge Heiden</title>
+</ellipse>
 <!-- Vertex:    46 -->
-<ellipse cx="412.54" cy="232.15" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="415.38" y="242.78" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alexis Lavrentiev</text>
+<ellipse cx="1229.73" cy="313.52" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexis Lavrentiev</title>
+</ellipse>
 <!-- Vertex:    47 -->
-<ellipse cx="1058.42" cy="79.82" rx="5.09" ry="5.09" style="fill:rgb(229,229,229);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1061.26" y="90.45" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Lars Wieneke</text>
+<ellipse cx="1246.63" cy="335.56" rx="14.14" ry="14.14" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Lars Wieneke</title>
+</ellipse>
 <!-- Vertex:    48 -->
-<ellipse cx="642.19" cy="316.66" rx="3.60" ry="3.60" style="fill:rgb(204,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="645.03" y="327.28" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Franziska Heimburger</text>
+<ellipse cx="937.69" cy="411.86" rx="10.00" ry="10.00" style="fill:url(#Gray75);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Franziska Heimburger</title>
+</ellipse>
 <!-- Vertex:    49 -->
-<ellipse cx="934.05" cy="130.64" rx="3.60" ry="3.60" style="fill:rgb(255,99,33);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="936.90" y="141.27" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Isabelle Jouve</text>
+<ellipse cx="1275.18" cy="381.61" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Isabelle Jouve</title>
+</ellipse>
 <!-- Vertex:    50 -->
-<ellipse cx="383.24" cy="370.99" rx="6.24" ry="6.24" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="386.09" y="381.61" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Nicolas Thély</text>
+<ellipse cx="611.97" cy="663.84" rx="17.32" ry="17.32" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas Thély</title>
+</ellipse>
 <!-- Vertex:    51 -->
-<ellipse cx="380.18" cy="283.78" rx="3.60" ry="3.60" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="383.03" y="294.41" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">David-Olivier Lartigaud</text>
+<ellipse cx="648.39" cy="597.14" rx="10.00" ry="10.00" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>David-Olivier Lartigaud</title>
+</ellipse>
 <!-- Vertex:    52 -->
-<ellipse cx="469.51" cy="272.76" rx="5.09" ry="5.09" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="472.36" y="283.39" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Gilles Rouffineau</text>
+<ellipse cx="584.66" cy="617.26" rx="14.14" ry="14.14" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Gilles Rouffineau</title>
+</ellipse>
 <!-- Vertex:    53 -->
-<ellipse cx="793.75" cy="235.75" rx="5.09" ry="5.09" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="796.59" y="246.37" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Florence Clavaud</text>
+<ellipse cx="855.75" cy="422.45" rx="14.14" ry="14.14" style="fill:url(#TealBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Florence Clavaud</title>
+</ellipse>
 <!-- Vertex:    54 -->
-<ellipse cx="1283.12" cy="537.81" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1285.97" y="548.44" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Cécile Armand</text>
+<ellipse cx="1314.00" cy="504.69" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Cécile Armand</title>
+</ellipse>
 <!-- Vertex:    55 -->
-<ellipse cx="1051.69" cy="428.21" rx="5.09" ry="5.09" style="fill:rgb(30,249,163);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1054.54" y="438.83" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Elifsu Sabuncu</text>
+<ellipse cx="771.80" cy="821.60" rx="14.14" ry="14.14" style="fill:url(#Black);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Elifsu Sabuncu</title>
+</ellipse>
 <!-- Vertex:    56 -->
-<ellipse cx="938.55" cy="456.71" rx="3.60" ry="3.60" style="fill:rgb(255,216,242);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="941.40" y="467.33" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Antoine Blanchard</text>
+<ellipse cx="846.65" cy="806.78" rx="10.00" ry="10.00" style="fill:url(#Pink);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Antoine Blanchard</title>
+</ellipse>
 <!-- Vertex:    57 -->
-<ellipse cx="775.52" cy="475.31" rx="5.09" ry="5.09" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="778.36" y="485.93" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Cynthia Pedroja</text>
+<ellipse cx="828.44" cy="748.55" rx="14.14" ry="14.14" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Cynthia Pedroja</title>
+</ellipse>
 <!-- Vertex:    58 -->
-<ellipse cx="1045.31" cy="481.22" rx="3.60" ry="3.60" style="fill:rgb(204,204,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1048.15" y="491.85" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Anne-Laure Stérin</text>
+<ellipse cx="773.82" cy="765.49" rx="10.00" ry="10.00" style="fill:url(#Tan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Anne-Laure Stérin</title>
+</ellipse>
 <!-- Vertex:    59 -->
-<ellipse cx="453.29" cy="143.85" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="456.14" y="154.48" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Clément Oury</text>
+<ellipse cx="917.62" cy="376.34" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Clément Oury</title>
+</ellipse>
 <!-- Vertex:    60 -->
-<ellipse cx="715.83" cy="239.71" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="718.68" y="250.34" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Paul-Henri Giraud</text>
+<ellipse cx="1296.42" cy="655.61" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Paul-Henri Giraud</title>
+</ellipse>
 <!-- Vertex:    61 -->
-<ellipse cx="1063.76" cy="353.65" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1066.61" y="364.28" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Nicolas De Lavergne</text>
+<ellipse cx="1286.74" cy="679.94" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas De Lavergne</title>
+</ellipse>
 <!-- Vertex:    62 -->
-<ellipse cx="824.53" cy="174.08" rx="7.20" ry="7.20" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="827.38" y="184.70" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Olivier Le Deuff</text>
+<ellipse cx="847.66" cy="474.33" rx="20.00" ry="20.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Olivier Le Deuff</title>
+</ellipse>
 <!-- Vertex:    63 -->
-<ellipse cx="306.11" cy="700.26" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="308.95" y="710.88" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Marion Colas</text>
+<ellipse cx="1261.80" cy="727.14" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Marion Colas</title>
+</ellipse>
 <!-- Vertex:    64 -->
-<ellipse cx="410.22" cy="637.43" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="413.06" y="648.06" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Maria Vlachou</text>
+<ellipse cx="1246.63" cy="749.86" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Maria Vlachou</title>
+</ellipse>
 <!-- Vertex:    65 -->
-<ellipse cx="166.81" cy="305.01" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="169.66" y="315.64" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Sylvain Machefert</text>
+<ellipse cx="1229.73" cy="771.89" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sylvain Machefert</title>
+</ellipse>
 <!-- Vertex:    66 -->
-<ellipse cx="721.45" cy="244.91" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="724.30" y="255.53" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Robin de Mourat</text>
+<ellipse cx="1211.15" cy="793.16" rx="10.00" ry="10.00" style="fill:url(#Gray65);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Robin de Mourat</title>
+</ellipse>
 <!-- Vertex:    67 -->
-<ellipse cx="604.26" cy="111.22" rx="3.60" ry="3.60" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="607.11" y="121.84" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Thomas Meghe</text>
+<ellipse cx="1190.96" cy="813.60" rx="10.00" ry="10.00" style="fill:url(#GreenYellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Thomas Meghe</title>
+</ellipse>
 <!-- Vertex:    68 -->
-<ellipse cx="710.63" cy="49.52" rx="3.60" ry="3.60" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="713.48" y="60.14" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Erwan Mahé</text>
+<ellipse cx="1169.21" cy="833.14" rx="10.00" ry="10.00" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Erwan Mahé</title>
+</ellipse>
 <!-- Vertex:    69 -->
-<ellipse cx="376.52" cy="358.25" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="379.37" y="368.87" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alexandre Serres</text>
+<ellipse cx="950.84" cy="556.91" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Serres</title>
+</ellipse>
 <!-- Vertex:    70 -->
-<ellipse cx="668.02" cy="664.65" rx="3.60" ry="3.60" style="fill:rgb(0,153,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="670.87" y="675.28" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Christophe Leclercq</text>
+<ellipse cx="852.72" cy="659.61" rx="10.00" ry="10.00" style="fill:url(#Maroon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Christophe Leclercq</title>
+</ellipse>
 <!-- Vertex:    71 -->
-<ellipse cx="1002.74" cy="337.54" rx="5.09" ry="5.09" style="fill:rgb(0,153,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1005.59" y="348.16" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Martin Grandjean</text>
+<ellipse cx="746.51" cy="858.66" rx="14.14" ry="14.14" style="fill:url(#Maroon);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Martin Grandjean</title>
+</ellipse>
 <!-- Vertex:    72 -->
-<ellipse cx="983.20" cy="230.99" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="986.04" y="241.62" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Damien Baïs</text>
+<ellipse cx="1068.28" cy="901.04" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Damien Baïs</title>
+</ellipse>
 <!-- Vertex:    73 -->
-<ellipse cx="1049.94" cy="154.64" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1052.79" y="165.27" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Johann Aussage</text>
+<ellipse cx="1039.97" cy="915.18" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Johann Aussage</title>
+</ellipse>
 <!-- Vertex:    74 -->
-<ellipse cx="1262.12" cy="562.21" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1264.97" y="572.83" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Virginie Pringuet</text>
+<ellipse cx="1010.62" cy="928.07" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Virginie Pringuet</title>
+</ellipse>
 <!-- Vertex:    75 -->
-<ellipse cx="1129.13" cy="518.29" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1131.98" y="528.92" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Antoine Courtin</text>
+<ellipse cx="980.31" cy="939.69" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Antoine Courtin</title>
+</ellipse>
 <!-- Vertex:    76 -->
-<ellipse cx="1217.87" cy="465.11" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1220.72" y="475.74" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Camille Bosqué</text>
+<ellipse cx="949.16" cy="949.98" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Camille Bosqué</title>
+</ellipse>
 <!-- Vertex:    77 -->
-<ellipse cx="1067.28" cy="486.49" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1070.13" y="497.12" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alexandre Dupont</text>
+<ellipse cx="917.26" cy="958.93" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexandre Dupont</title>
+</ellipse>
 <!-- Vertex:    78 -->
-<ellipse cx="409.52" cy="278.22" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="412.37" y="288.85" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Alexis Chazard</text>
+<ellipse cx="884.72" cy="966.49" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Alexis Chazard</title>
+</ellipse>
 <!-- Vertex:    79 -->
-<ellipse cx="401.96" cy="38.03" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="404.80" y="48.66" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Aurélie Hess</text>
+<ellipse cx="851.66" cy="972.64" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Aurélie Hess</title>
+</ellipse>
 <!-- Vertex:    80 -->
-<ellipse cx="310.00" cy="106.22" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="312.85" y="116.84" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Martine Cocaud</text>
+<ellipse cx="818.17" cy="977.37" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Martine Cocaud</title>
+</ellipse>
 <!-- Vertex:    81 -->
-<ellipse cx="611.32" cy="199.21" rx="3.60" ry="3.60" style="fill:rgb(255,99,33);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="614.17" y="209.83" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Pierre Braun</text>
+<ellipse cx="505.76" cy="626.79" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Pierre Braun</title>
+</ellipse>
 <!-- Vertex:    82 -->
-<ellipse cx="431.57" cy="174.44" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="434.42" y="185.07" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Nicolas Larrousse</text>
+<ellipse cx="574.55" cy="571.73" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Nicolas Larrousse</title>
+</ellipse>
 <!-- Vertex:    83 -->
-<ellipse cx="1226.05" cy="313.97" rx="6.24" ry="6.24" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1228.90" y="324.60" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Johann Holland</text>
+<ellipse cx="707.06" cy="892.54" rx="17.32" ry="17.32" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Johann Holland</title>
+</ellipse>
 <!-- Vertex:    84 -->
-<ellipse cx="491.38" cy="625.21" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="494.22" y="635.84" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Charlotte Butez</text>
+<ellipse cx="686.83" cy="718.90" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Charlotte Butez</title>
+</ellipse>
 <!-- Vertex:    85 -->
-<ellipse cx="293.13" cy="402.93" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="295.98" y="413.55" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Vincent Auzas</text>
+<ellipse cx="623.10" cy="282.69" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Vincent Auzas</title>
+</ellipse>
 <!-- Vertex:    86 -->
-<ellipse cx="285.56" cy="363.45" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="288.41" y="374.08" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Rémy Besson</text>
+<ellipse cx="650.41" cy="334.57" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Rémy Besson</title>
+</ellipse>
 <!-- Vertex:    87 -->
-<ellipse cx="180.31" cy="429.62" rx="5.09" ry="5.09" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="183.16" y="440.24" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Michaël Bourgatte</text>
+<ellipse cx="711.44" cy="309.88" rx="14.14" ry="14.14" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Michaël Bourgatte</title>
+</ellipse>
 <!-- Vertex:    88 -->
-<ellipse cx="322.47" cy="354.06" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="325.32" y="364.68" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Valérie Hugonnard</text>
+<ellipse cx="706.05" cy="255.16" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Valérie Hugonnard</title>
+</ellipse>
 <!-- Vertex:    89 -->
-<ellipse cx="684.99" cy="452.93" rx="6.24" ry="6.24" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="687.84" y="463.55" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Mathieu Jacomy</text>
+<ellipse cx="817.31" cy="598.20" rx="17.32" ry="17.32" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mathieu Jacomy</title>
+</ellipse>
 <!-- Vertex:    90 -->
-<ellipse cx="522.32" cy="204.94" rx="3.60" ry="3.60" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="525.16" y="215.57" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Master architecture de l&#39;information</text>
+<ellipse cx="436.98" cy="940.18" rx="10.00" ry="10.00" style="fill:url(#Magenta);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Master architecture de l&#39;information</title>
+</ellipse>
 <!-- Vertex:    91 -->
-<ellipse cx="529.57" cy="537.33" rx="3.60" ry="3.60" style="fill:rgb(255,99,33);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="532.42" y="547.95" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Amirouche Boubekki</text>
+<ellipse cx="314.59" cy="854.42" rx="10.00" ry="10.00" style="fill:url(#CadetBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Amirouche Boubekki</title>
+</ellipse>
 <!-- Vertex:    92 -->
-<ellipse cx="125.97" cy="538.23" rx="5.09" ry="5.09" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="128.82" y="548.86" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Vanessa Juloux</text>
+<ellipse cx="379.70" cy="902.72" rx="14.14" ry="14.14" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Vanessa Juloux</title>
+</ellipse>
 <!-- Vertex:    93 -->
-<ellipse cx="406.73" cy="350.92" rx="3.60" ry="3.60" style="fill:rgb(255,10,155);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="409.58" y="361.55" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Isabelle Breuil</text>
+<ellipse cx="661.54" cy="470.09" rx="10.00" ry="10.00" style="fill:url(#Yellow);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Isabelle Breuil</title>
+</ellipse>
 <!-- Vertex:    94 -->
-<ellipse cx="230.56" cy="187.53" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="233.41" y="198.15" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Josquin Debaz</text>
+<ellipse cx="590.73" cy="445.74" rx="14.14" ry="14.14" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Mehdi Bourgeois</title>
+</ellipse>
 <!-- Vertex:    95 -->
-<ellipse cx="543.30" cy="244.63" rx="3.60" ry="3.60" style="fill:rgb(173,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="546.14" y="255.25" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Solène Roulet</text>
+<ellipse cx="341.05" cy="877.63" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Josquin Debaz</title>
+</ellipse>
 <!-- Vertex:    96 -->
-<ellipse cx="533.25" cy="347.42" rx="5.09" ry="5.09" style="fill:rgb(204,255,178);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="536.10" y="358.05" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Sophie Pène</text>
+<ellipse cx="1035.80" cy="392.80" rx="10.00" ry="10.00" style="fill:url(#Magenta);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Solène Roulet</title>
+</ellipse>
 <!-- Vertex:    97 -->
-<ellipse cx="898.94" cy="567.05" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="901.79" y="577.67" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Benjamin Ooghe</text>
+<ellipse cx="1051.99" cy="317.63" rx="14.14" ry="14.14" style="fill:url(#MidnightBlue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sophie Pène</title>
+</ellipse>
 <!-- Vertex:    98 -->
-<ellipse cx="798.93" cy="538.72" rx="3.60" ry="3.60" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="801.77" y="549.35" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Anne L&#39;Hôte</text>
+<ellipse cx="791.01" cy="700.90" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Benjamin Ooghe</title>
+</ellipse>
 <!-- Vertex:    99 -->
-<ellipse cx="282.33" cy="268.45" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="285.18" y="279.07" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Fatiha Idmhand</text>
+<ellipse cx="741.45" cy="688.20" rx="10.00" ry="10.00" style="fill:url(#Purple);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Anne L&#39;Hôte</title>
+</ellipse>
 <!-- Vertex:   100 -->
-<ellipse cx="345.21" cy="233.34" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="348.06" y="243.97" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Sofia Papastamkou</text>
+<ellipse cx="546.22" cy="407.62" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Fatiha Idmhand</title>
+</ellipse>
 <!-- Vertex:   101 -->
-<ellipse cx="503.13" cy="455.56" rx="5.09" ry="5.09" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="505.98" y="466.19" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Clarisse Bardiot</text>
+<ellipse cx="521.95" cy="474.33" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Sofia Papastamkou</title>
+</ellipse>
 <!-- Vertex:   102 -->
-<ellipse cx="289.79" cy="429.52" rx="3.60" ry="3.60" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="292.64" y="440.15" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Stéphane Vial</text>
+<ellipse cx="647.38" cy="753.84" rx="14.14" ry="14.14" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Clarisse Bardiot</title>
+</ellipse>
 <!-- Vertex:   103 -->
-<ellipse cx="385.85" cy="470.70" rx="5.09" ry="5.09" style="fill:rgb(89,89,89);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="388.70" y="481.33" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Yves Rinato</text>
+<ellipse cx="522.96" cy="730.55" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Stéphane Vial</title>
+</ellipse>
 <!-- Vertex:   104 -->
-<ellipse cx="1303.96" cy="533.25" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1306.80" y="543.87" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Natalia Calderón Beltrán</text>
+<ellipse cx="589.72" cy="717.84" rx="14.14" ry="14.14" style="fill:url(#White);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Yves Rinato</title>
+</ellipse>
 <!-- Vertex:   105 -->
-<ellipse cx="1048.31" cy="329.06" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="1051.15" y="339.69" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Thibault Clerice</text>
+<ellipse cx="157.80" cy="667.83" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Natalia Calderón Beltrán</title>
+</ellipse>
 <!-- Vertex:   106 -->
-<ellipse cx="792.17" cy="655.96" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="795.02" y="666.59" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Silva Antonio</text>
+<ellipse cx="149.06" cy="643.30" rx="10.00" ry="10.00" style="fill:url(#Cyan);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Thibault Clerice</title>
+</ellipse>
 <!-- Vertex:   107 -->
-<ellipse cx="694.53" cy="590.15" rx="3.60" ry="3.60" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="697.38" y="600.77" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Juliette Hueber</text>
+<ellipse cx="142.23" cy="618.45" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Silva Antonio</title>
+</ellipse>
 <!-- Vertex:   108 -->
-<ellipse cx="143.21" cy="523.84" rx="3.60" ry="3.60" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
-<text x="146.06" y="534.47" style="font-family:MS Sans Serif;font-size:15px;fill:rgb(0,0,0)">Laurent Tessier</text>
+<ellipse cx="137.34" cy="593.34" rx="10.00" ry="10.00" style="fill:url(#Blue);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Juliette Hueber</title>
+</ellipse>
+<!-- Vertex:   109 -->
+<ellipse cx="765.21" cy="334.63" rx="10.00" ry="10.00" style="fill:url(#LimeGreen);stroke:rgb(0,0,0);stroke-width:0.50;">
+<title>Laurent Tessier</title>
+</ellipse>
 </g>         <!-- Layer Network -->
 </svg>
